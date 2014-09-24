@@ -9,6 +9,7 @@
 /apertium-pol.pol.acx -text
 /apertium-pol.pol.dix -text
 /apertium-pol.pol.rlx -text
+/apertium-pol.pol.tsx -text
 /apertium-pol.post-pol.dix -text
 /autogen.sh -text
 /configure.ac -text
