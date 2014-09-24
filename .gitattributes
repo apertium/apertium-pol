@@ -6,6 +6,7 @@
 /NEWS -text
 /README -text
 /apertium-pol.pc.in -text
+/apertium-pol.pol.acx -text
 /apertium-pol.pol.dix -text
 /apertium-pol.pol.rlx -text
 /apertium-pol.post-pol.dix -text
