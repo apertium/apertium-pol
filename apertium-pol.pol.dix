@@ -43052,6 +43052,7 @@
     <e lm="golfowy"><i>golfow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="graficzny"><i>graficzn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="gramatyczny"><i>gramatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="równy"><i>równ</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="gramotny"><i>gramotn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="graniczny"><i>graniczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="granitowy"><i>granitow</i><par n="egzotermiczn/y__adj"/></e>
@@ -44953,6 +44954,7 @@
     <e lm="naprawdę"><i>naprawdę</i><par n="tu__adv"/></e>
     <e lm="następująco"><i>następująco</i><par n="tu__adv"/></e>
     <e lm="nawzajem"><i>nawzajem</i><par n="tu__adv"/></e>
+    <e lm="jak widać"><i>jak<b/>widać</i><par n="tu__adv"/></e>
     <e lm="negatywnie"><i>negatywnie</i><par n="tu__adv"/></e>
     <e lm="niejako"><i>niejako</i><par n="tu__adv"/></e>
     <e lm="obecnie"><i>obecnie</i><par n="tu__adv"/></e>
@@ -53515,6 +53517,8 @@
     <e lm="lawa"><i>law</i><par n="analiz/a__n"/></e>
     <e lm="lawina"><i>lawin</i><par n="analiz/a__n"/></e>
     <e lm="liczba"><i>liczb</i><par n="analiz/a__n"/></e>
+    <e lm="liczba pojedyncza"><i>liczb</i><par n="analiz/a__n"/><b/><i>pojedyncz</i><par n="now/y__adj"/></e>
+    <e lm="liczba mnoga"><i>liczb</i><par n="analiz/a__n"/><b/><i>dro</i><par n="dro/gi__adj"/></e>
     <e lm="lima"><i>lim</i><par n="analiz/a__n"/></e>
     <e lm="lina"><i>lin</i><par n="analiz/a__n"/></e>
     <e lm="malina"><i>malin</i><par n="analiz/a__n"/></e>
