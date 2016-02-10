@@ -53750,8 +53750,8 @@
     <e lm="lawa"><i>law</i><par n="analiz/a__n"/></e>
     <e lm="lawina"><i>lawin</i><par n="analiz/a__n"/></e>
     <e lm="liczba"><i>liczb</i><par n="analiz/a__n"/></e>
-    <e lm="liczba pojedyncza"><i>liczb</i><par n="analiz/a__n"/><b/><i>pojedyncz</i><par n="now/y__adj"/></e>
-    <e lm="liczba mnoga"><i>liczb</i><par n="analiz/a__n"/><b/><i>dro</i><par n="dro/gi__adj"/></e>
+<!--    <e lm="liczba pojedyncza"><i>liczb</i><par n="analiz/a__n"/><b/><i>pojedyncz</i><par n="now/y__adj"/></e>-->
+<!--    <e lm="liczba mnoga"><i>liczb</i><par n="analiz/a__n"/><b/><i>dro</i><par n="dro/gi__adj"/></e>-->
     <e lm="lima"><i>lim</i><par n="analiz/a__n"/></e>
     <e lm="lina"><i>lin</i><par n="analiz/a__n"/></e>
     <e lm="malina"><i>malin</i><par n="analiz/a__n"/></e>
