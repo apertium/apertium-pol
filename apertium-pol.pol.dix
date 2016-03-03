@@ -41786,18 +41786,9 @@
     <e lm="ile"><i>il</i><par n="il/e__det"/></e>
 
     <e lm="pierwszy"><i>pierw</i><par n="pierw/szy__det"/></e>
-<!-- Mikel says: the following 2 have been added here as determiners similar to ordinals -->
-<!-- but I am not sure they are; they look like regular adjectives to me -->
-    <e lm="bliższy"><i>bliż</i><par n="pierw/szy__det"/></e>
-    <e lm="dalszy"><i>dal</i><par n="pierw/szy__det"/></e>
     <e lm="drugi"><i>dru</i><par n="dru/gi__det"/></e>
     <e lm="trzeci"><i>trzec</i><par n="trzec/i__det"/></e>
     <e lm="czwarty"><i>czwar</i><par n="czwar/ty__det"/></e>
-<!-- Mikel says: the following 3 have been added here as determiners similar to ordinals -->
-<!-- but I am not sure they are; they look like regular adjectives to me -->
-    <e lm="otwarty"><i>otwart</i><par n="czwar/ty__det"/></e>
-    <e lm="zwarty"><i>zwart</i><par n="czwar/ty__det"/></e>
-    <e lm="półotwarty"><i>półotwart</i><par n="czwar/ty__det"/></e>
     <e lm="piąty"><i>pią</i><par n="czwar/ty__det"/></e>
     <e lm="szósty"><i>szó</i><par n="szó/sty__det"/></e>
     <e lm="siódmy"><i>siódm</i><par n="ósm/y__det"/></e>
@@ -41952,6 +41943,9 @@
     <e lm="mocny"><i>mocn</i><par n="now/y__adj"/></e>
     <e lm="mocny"><p><l>mocniej</l><r>mocny</r></p><par n="lep/szy__adj"/></e>
     <e lm="mocny"><p><l>najmocniej</l><r>mocny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="otwarty"><i>otwart</i><par n="świę/ty__adj"/></e>
+    <e lm="zwarty"><i>zwart</i><par n="świę/ty__adj"/></e>
+    <e lm="półotwarty"><i>półotwart</i><par n="świę/ty__adj"/></e>
     <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
     <e lm="dobry"><p><l>lep</l><r>dobry</r></p><par n="lep/szy__adj"/></e>
     <e lm="dobry"><p><l>najlep</l><r>dobry</r></p><par n="najlep/szy__adj"/></e>
@@ -52834,10 +52828,6 @@
     <e lm="wtorek"><i>wtor</i><par n="stat/ek__n"/></e>
     <e lm="wyjątek"><i>wyjąt</i><par n="stat/ek__n"/></e>
     <e lm="związek"><i>związ</i><par n="stat/ek__n"/></e>
-<!-- Mikel thinks this multiword will not work and he comments it out -->
-<!--
-    <e lm="związek frazeologiczny"><i>związ</i><par n="stat/ek__n"/><i>frazeologiczn</i><par n="now/y__adj"/></e>
--->
     <e lm="minus"><i>minus</i><par n="minus__n"/></e>
     <e lm="kłos"><i>kłos</i><par n="minus__n"/></e>
     <e lm="komin"><i>komin</i><par n="minus__n"/></e>
@@ -53838,12 +53828,6 @@
     <e lm="lawa"><i>law</i><par n="analiz/a__n"/></e>
     <e lm="lawina"><i>lawin</i><par n="analiz/a__n"/></e>
     <e lm="liczba"><i>liczb</i><par n="analiz/a__n"/></e>
-<!-- Mikel things this multiword entry won't work and comments it out -->
-<!--
-    <e lm="liczba pojedyncza"><i>liczb</i><par n="analiz/a__n"/><b/><i>pojedyncz</i><par n="now/y__adj"/></e>
-    <e lm="liczba mnoga"><i>liczb</i><par n="analiz/a__n"/><b/><i>mno</i><par n="dro/gi__adj"/></e>
--->
-<!--    <e lm="liczba mnoga"><i>liczb</i><par n="analiz/a__n"/><b/><i>dro</i><par n="dro/gi__adj"/></e>-->
     <e lm="lima"><i>lim</i><par n="analiz/a__n"/></e>
     <e lm="lina"><i>lin</i><par n="analiz/a__n"/></e>
     <e lm="malina"><i>malin</i><par n="analiz/a__n"/></e>
