@@ -82,7 +82,7 @@
     <sdef n="itg"     c="pytający"/>
     <sdef n="ind"     c="rodzajnik nieokreślony"/>
     <sdef n="ref"     c="zwrotny"/>
-    <sdef n="imperf"  c="czasownik niedokonany"/>
+    <sdef n="impf"  c="czasownik niedokonany"/>
     <sdef n="perf"    c="czasownik dokonany"/>   
     <sdef n="sint"    c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/>
     <sdef n="comp"    c="stopień wyższy"/>
@@ -15515,7 +15515,7 @@
       <e>
         <p>
           <l>óc</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="inf"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -15523,54 +15523,54 @@
       <e>
         <p>
           <l>ogę</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oże</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ogą</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>og</l>
-          <r>óc<s n="vaux"/><s n="imperf"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/></r>
         </p>
         <par n="BASE__mogłem"/>
       </e>
       <e>
         <p>
           <l>ógł</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ógłby</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ogąc</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ogąc</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pprs"/></r>
+          <r>óc<s n="vaux"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -15580,7 +15580,7 @@
       <e>
         <p>
           <l>ieć</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -15588,27 +15588,27 @@
       <e>
         <p>
           <l>zę</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
@@ -15616,14 +15616,14 @@
       <e>
         <p>
           <l>ząc</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ząc</l>
-          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ieć<s n="vaux"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -15714,7 +15714,7 @@
       <e>
         <p>
           <l>ieć</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -15722,27 +15722,27 @@
       <e>
         <p>
           <l>am</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
@@ -15750,26 +15750,26 @@
       <e>
         <p>
           <l>iej</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ając</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iawszy</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="adv"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pp"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ając</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ieć<s n="vbhaver"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -15778,33 +15778,33 @@
       <e>
          <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>am</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>aj</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -15812,7 +15812,7 @@
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -15820,35 +15820,35 @@
       <e>
         <p>
           <l>ając</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ając</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>an</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -16049,140 +16049,140 @@
       </e>
     </pardef>
     <pardef n="pła/cić__vblex">
-      <e><p><l>cić</l><r>cić<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e><p><l>cić</l><r>cić<s n="vblex"/><s n="impf"/><s n="inf"/></r></p></e>
       <e>
         <p>
           <l>cę</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>cą</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ć</l>
-          <r>cić<s n="vblex"/><s n="imperf"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>cić<s n="vblex"/><s n="imperf"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>c</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>cono</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cąc</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>cąc</l>
-          <r>cić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>cić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="chod/zić__vblex">
-      <e><p><l>zić</l><r>zić<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e><p><l>zić</l><r>zić<s n="vblex"/><s n="impf"/><s n="inf"/></r></p></e>
       <e>
         <p>
           <l>zę</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zi</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ź</l>
-          <r>zić<s n="vblex"/><s n="imperf"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>zi</l>
-          <r>zić<s n="vblex"/><s n="imperf"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ze</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>z</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>zono</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>zić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>zić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
     </pardef>
@@ -16532,50 +16532,50 @@
       <e>
          <p>
           <l>dzieć</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>m</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sz</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>my</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cie</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzą</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>dz</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -16583,14 +16583,14 @@
       <e>
         <p>
           <l>dzi</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>dze</l>
-          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>dzieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
@@ -16599,50 +16599,50 @@
       <e>
          <p>
           <l>ieć</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ę</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esz</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emy</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ecie</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iej</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -16650,7 +16650,7 @@
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
@@ -16658,20 +16658,20 @@
       <e>
         <p>
           <l>ąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
@@ -16680,50 +16680,50 @@
       <e>
          <p>
           <l>eść</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>em</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esz</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emy</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ecie</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>edzą</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>edz</l>
-          <r>eść<s n="vblex"/><s n="imperf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -16731,7 +16731,7 @@
       <e>
         <p>
           <l></l>
-          <r>eść<s n="vblex"/><s n="imperf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__jadłem"/>
       </e>
@@ -16739,28 +16739,28 @@
       <e>
         <p>
           <l>edząc</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>edząc</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>edze</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>edz</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -16776,33 +16776,33 @@
       <e>
          <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zę</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ze</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>z</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -16810,7 +16810,7 @@
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -16818,28 +16818,28 @@
       <e>
         <p>
           <l>ząc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>an</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -16847,7 +16847,7 @@
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -16944,50 +16944,50 @@
       <e>
          <p>
           <l>iść</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idę</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idziesz</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idzie</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idziemy</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idziecie</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>idą</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>idź</l>
-          <r>iść<s n="vblex"/><s n="imperf"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -16995,7 +16995,7 @@
       <e>
         <p>
           <l></l>
-          <r>iść<s n="vblex"/><s n="imperf"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__szedłem"/>
       </e>
@@ -17003,20 +17003,20 @@
       <e>
         <p>
           <l>idąc</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>idąc</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iś</l>
-          <r>iść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>iść<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
@@ -17114,50 +17114,50 @@
       <e>
          <p>
           <l>rać</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iorę</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ierzesz</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ierze</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ierzemy</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ierzecie</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iorą</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ierz</l>
-          <r>rać<s n="vblex"/><s n="imperf"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17165,7 +17165,7 @@
       <e>
         <p>
           <l>ra</l>
-          <r>rać<s n="vblex"/><s n="imperf"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17173,28 +17173,28 @@
       <e>
         <p>
           <l>iorąc</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>iorąc</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ra</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ran</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -17202,7 +17202,7 @@
       <e>
         <p>
           <l>rano</l>
-          <r>rać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>rać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17210,90 +17210,90 @@
       <e>
          <p>
           <l>ywać</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uję</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujesz</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uje</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujemy</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujecie</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ują</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uj</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ywa</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ując</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ując</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ywa</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ywan</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>ywano</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17301,50 +17301,50 @@
       <e>
          <p>
           <l>ować</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uję</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujesz</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uje</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujemy</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujecie</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ują</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>uj</l>
-          <r>ować<s n="vblex"/><s n="imperf"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17352,7 +17352,7 @@
       <e>
         <p>
           <l>owa</l>
-          <r>ować<s n="vblex"/><s n="imperf"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17360,34 +17360,34 @@
       <e>
         <p>
           <l>ując</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ując</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>owa</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>owan</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>owano</l>
-          <r>ować<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ować<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17479,33 +17479,33 @@
       <e>
          <p>
           <l>iwać</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iwuję</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iwuje</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>iwują</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iwuj</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17513,7 +17513,7 @@
       <e>
         <p>
           <l>iwa</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17521,28 +17521,28 @@
       <e>
         <p>
           <l>iwując</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>iwując</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iwa</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>iwan</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -17550,7 +17550,7 @@
       <e>
         <p>
           <l>iwano</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17558,33 +17558,33 @@
       <e>
          <p>
           <l>iwać</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uję</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uje</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ują</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>uj</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17592,7 +17592,7 @@
       <e>
         <p>
           <l>iwa</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17600,28 +17600,28 @@
       <e>
         <p>
           <l>ując</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ując</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iwa</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>iwan</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -17629,7 +17629,7 @@
       <e>
         <p>
           <l>iwano</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>iwać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17637,50 +17637,50 @@
       <e>
          <p>
           <l>ć</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>m</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sz</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>my</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cie</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ją</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>j</l>
-          <r>ć<s n="vblex"/><s n="imperf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17688,7 +17688,7 @@
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17696,7 +17696,7 @@
       <e>
         <p>
           <l>jąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -17704,14 +17704,14 @@
       <e>
         <p>
           <l>jąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
@@ -17719,14 +17719,14 @@
       <e>
         <p>
           <l>n</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>no</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17801,50 +17801,50 @@
       <e>
          <p>
           <l>ć</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ję</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jesz</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>je</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jemy</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jecie</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ją</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>j</l>
-          <r>ć<s n="vblex"/><s n="imperf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -17852,7 +17852,7 @@
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -17860,28 +17860,28 @@
       <e>
         <p>
           <l>jąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>jąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__wzięty"/>
       </e>
@@ -17889,7 +17889,7 @@
       <e>
         <p>
           <l>to</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -17964,84 +17964,84 @@
       <e>
          <p>
           <l>yć</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ę</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ysz</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ymy</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ycie</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>yć<s n="vblex"/><s n="imperf"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>yć<s n="vblex"/><s n="imperf"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>e</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -18049,7 +18049,7 @@
       <e>
         <p>
           <l>ono</l>
-          <r>yć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>yć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18057,50 +18057,50 @@
       <e>
          <p>
           <l>ić</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ię</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>isz</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>imy</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>icie</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ią</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l></l>
-          <r>ić<s n="vblex"/><s n="imperf"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18108,7 +18108,7 @@
       <e>
         <p>
           <l>i</l>
-          <r>ić<s n="vblex"/><s n="imperf"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18116,28 +18116,28 @@
       <e>
         <p>
           <l>iąc</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>iąc</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ie</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -18145,7 +18145,7 @@
       <e>
         <p>
           <l>iono</l>
-          <r>ić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18153,33 +18153,33 @@
       <e>
          <p>
           <l>obić</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>obię</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>obi</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>obią</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ób</l>
-          <r>obić<s n="vblex"/><s n="imperf"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18187,7 +18187,7 @@
       <e>
         <p>
           <l>obi</l>
-          <r>obić<s n="vblex"/><s n="imperf"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18195,28 +18195,28 @@
       <e>
         <p>
           <l>obiąc</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>obiąc</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>obie</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>obi</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -18224,7 +18224,7 @@
       <e>
         <p>
           <l>obiono</l>
-          <r>obić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>obić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18232,50 +18232,50 @@
       <e>
          <p>
           <l>ieć</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ię</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>isz</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>imy</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>icie</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ią</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ij</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18283,7 +18283,7 @@
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
@@ -18291,28 +18291,28 @@
       <e>
         <p>
           <l>iąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>iąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ie</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e i="yes">
         <p>
           <l>ian</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -18320,7 +18320,7 @@
       <e>
         <p>
           <l>iano</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18328,50 +18328,50 @@
       <e>
          <p>
           <l>ścić</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>szczę</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ścisz</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ści</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ścimy</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ścicie</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>szczą</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ść</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18379,7 +18379,7 @@
       <e>
         <p>
           <l>ści</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18387,28 +18387,28 @@
       <e>
         <p>
           <l>szcząc</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>szcząc</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>szcze</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>szcz</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -18416,7 +18416,7 @@
       <e>
         <p>
           <l>szczono</l>
-          <r>ścić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ścić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18424,50 +18424,50 @@
       <e>
          <p>
           <l>sić</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>szę</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sisz</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>si</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>simy</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sicie</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>szą</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ś</l>
-          <r>sić<s n="vblex"/><s n="imperf"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18475,7 +18475,7 @@
       <e>
         <p>
           <l>si</l>
-          <r>sić<s n="vblex"/><s n="imperf"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18483,28 +18483,28 @@
       <e>
         <p>
           <l>sząc</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>sząc</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>sze</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>sz</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -18512,7 +18512,7 @@
       <e>
         <p>
           <l>szono</l>
-          <r>sić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>sić<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18520,93 +18520,93 @@
       <e>
          <p>
           <l>ywać</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uję</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujesz</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>uje</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujemy</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ujecie</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ują</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywam</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywasz</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywa</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywamy</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywacie</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ywają</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>uj</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>ywaj</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18614,7 +18614,7 @@
       <e>
         <p>
           <l>ywa</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18622,28 +18622,28 @@
       <e>
         <p>
           <l>ując</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ując</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ywa</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ywan</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -18651,7 +18651,7 @@
       <e>
         <p>
           <l>ywano</l>
-          <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ywać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18659,105 +18659,105 @@
       <e>
          <p>
           <l>gać</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żę</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żesz</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>że</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żemy</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żecie</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żą</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gę</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gam</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gasz</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ga</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gamy</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gacie</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gą</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>gają</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>żyj</l>
-          <r>gać<s n="vblex"/><s n="imperf"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>gaj</l>
-          <r>gać<s n="vblex"/><s n="imperf"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18765,7 +18765,7 @@
       <e>
         <p>
           <l>ga</l>
-          <r>gać<s n="vblex"/><s n="imperf"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18773,28 +18773,28 @@
       <e>
         <p>
           <l>gąc</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>gąc</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ga</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>gan</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -18802,7 +18802,7 @@
       <e>
         <p>
           <l>gano</l>
-          <r>gać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>gać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18810,71 +18810,71 @@
       <e>
          <p>
           <l>wać</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>wę</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>wie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>wą</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>owię</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>owę</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>owie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e r="LR">
         <p>
           <l>owią</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ową</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>wij</l>
-          <r>wać<s n="vblex"/><s n="imperf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>owij</l>
-          <r>wać<s n="vblex"/><s n="imperf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -18882,7 +18882,7 @@
       <e>
         <p>
           <l>wa</l>
-          <r>wać<s n="vblex"/><s n="imperf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -18890,28 +18890,28 @@
       <e>
         <p>
           <l>wąc</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>wąc</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>wa</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>wan</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
@@ -18919,7 +18919,7 @@
       <e>
         <p>
           <l>wano</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -18927,86 +18927,86 @@
       <e>
          <p>
           <l>leć</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e r="LR">
          <p>
           <l>ielić</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e r="LR">
          <p>
           <l>elić</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ielę</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ielesz</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iele</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ielemy</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ielecie</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ielą</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ielisz</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ieli</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ielimy</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ielicie</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iel</l>
-          <r>leć<s n="vblex"/><s n="imperf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -19014,14 +19014,14 @@
       <e>
         <p>
           <l>eł</l>
-          <r>leć<s n="vblex"/><s n="imperf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e r="LR">
         <p>
           <l>ieli</l>
-          <r>leć<s n="vblex"/><s n="imperf"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -19029,42 +19029,42 @@
       <e>
         <p>
           <l>ieląc</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ieląc</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>iele</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e r="LR">
         <p>
           <l>eł</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l>iel</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e r="LR">
         <p>
           <l>eł</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__wzięty"/>
       </e>
@@ -19072,13 +19072,13 @@
       <e>
         <p>
           <l>ielono</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ełto</l>
-          <r>leć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>leć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -19369,32 +19369,32 @@
       <e>
          <p>
           <l>wać</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ję</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>je</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>waj</l>
-          <r>wać<s n="vblex"/><s n="imperf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -19402,7 +19402,7 @@
       <e>
         <p>
           <l>wa</l>
-          <r>wać<s n="vblex"/><s n="imperf"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -19410,35 +19410,35 @@
       <e>
         <p>
           <l>wając</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>wając</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>wa</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>wan</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>wano</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>wać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -19446,33 +19446,33 @@
       <e>
          <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>eję</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>eje</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>eją</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>ej</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
@@ -19480,7 +19480,7 @@
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -19488,35 +19488,35 @@
       <e>
         <p>
           <l>ając</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ając</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>an</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -19730,72 +19730,72 @@
       <e>
         <p>
           <l>iąć</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nę</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nie</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ną</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nij</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__ciąłem"/>
       </e>
       <e>
         <p>
           <l>ięto</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ię</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__wzięty"/>
       </e>
       <e>
         <p>
           <l>ię</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l>nąc</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nąc</l>
-          <r>iąć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>iąć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -19804,65 +19804,65 @@
       <e>
         <p>
           <l>sieć</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>szę</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>si</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>szą</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ś</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>si</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>siano</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sze</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l>sząc</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>sząc</l>
-          <r>sieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>sieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -19871,65 +19871,65 @@
       <e>
         <p>
           <l>cieć</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cę</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>cą</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ć</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>cia</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ciano</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>cąc</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cąc</l>
-          <r>cieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>cieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -19938,65 +19938,65 @@
       <e>
         <p>
           <l>oleć</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>olę</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oli</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>olą</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ól</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ol</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>olano</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oląc</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ole</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>oląc</l>
-          <r>oleć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>oleć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20005,72 +20005,72 @@
       <e>
         <p>
           <l>reć</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rę</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>re</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>rą</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ryj</l>
-          <r>reć<s n="vblex"/><s n="imperf"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ar</l>
-          <r>reć<s n="vblex"/><s n="imperf"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>arto</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ar</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__wzięty"/>
       </e>
       <e>
         <p>
           <l>ar</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l>rąc</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rąc</l>
-          <r>reć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>reć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20347,72 +20347,72 @@
       <e>
         <p>
           <l>ciąć</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tnę</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tnie</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>tną</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tnij</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__ciąłem"/>
       </e>
       <e>
         <p>
           <l>cięto</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cię</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__wzięty"/>
       </e>
       <e>
         <p>
           <l>cię</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__picie"/>
       </e>
       <e>
         <p>
           <l>tnąc</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tnąc</l>
-          <r>ciąć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ciąć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20421,72 +20421,72 @@
       <e>
         <p>
           <l>c</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kę</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cze</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ką</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cz</l>
-          <r>c<s n="vblex"/><s n="imperf"/></r>
+          <r>c<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>k</l>
-          <r>c<s n="vblex"/><s n="imperf"/></r>
+          <r>c<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>czono</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cz</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>cze</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>kąc</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kąc</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>c<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20495,72 +20495,72 @@
       <e>
         <p>
           <l>echać</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>adę</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>edzie</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>adą</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>edź</l>
-          <r>echać<s n="vblex"/><s n="imperf"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>echa</l>
-          <r>echać<s n="vblex"/><s n="imperf"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>echano</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>echan</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>echa</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>adąc</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>adąc</l>
-          <r>echać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>echać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20662,72 +20662,72 @@
       <e>
         <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ę</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>an</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20803,72 +20803,72 @@
       <e>
         <p>
           <l>eć</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ęję</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>eje</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>eją</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ej</l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e c="niepopr">
         <p>
           <l>ano</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ejąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ejąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -20877,65 +20877,65 @@
       <e>
         <p>
           <l>eć</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ę</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>j</l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -20944,65 +20944,65 @@
       <e>
         <p>
           <l>eć</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ę</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eć<s n="vblex"/><s n="imperf"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21078,72 +21078,72 @@
       <e>
         <p>
           <l>ieć</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ię</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ią</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ia</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>iano</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ian</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>iąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ie</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>iąc</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21286,72 +21286,72 @@
       <e>
         <p>
           <l>źć</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zę</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zie</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ź</l>
-          <r>źć<s n="vblex"/><s n="imperf"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>z</l>
-          <r>źć<s n="vblex"/><s n="imperf"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ziono</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zi</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>zie</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>źć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21360,72 +21360,72 @@
       <e>
         <p>
           <l>eźć</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ozę</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ezie</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ozą</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>eź</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>óz</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>eziono</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ezi</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>ezie</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>oząc</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oząc</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eźć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21642,72 +21642,72 @@
       <e>
         <p>
           <l>eść</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>osę</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esie</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>osą</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>eś</l>
-          <r>eść<s n="vblex"/><s n="imperf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>eść<s n="vblex"/><s n="imperf"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__niosłem"/>
       </e>
       <e>
         <p>
           <l>esiono</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esi</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
       <e>
         <p>
           <l>esie</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>osąc</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>osąc</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>eść<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21783,105 +21783,105 @@
       <e>
         <p>
           <l>orać</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>orzę</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>orze</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>orzą</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>oram</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ora</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e r="LR">
         <p>
           <l>orają</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>orz</l>
-          <r>orać<s n="vblex"/><s n="imperf"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR" c="niepop">
         <p>
           <l>órz</l>
-          <r>orać<s n="vblex"/><s n="imperf"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR" c="niepop">
         <p>
           <l>oraj</l>
-          <r>orać<s n="vblex"/><s n="imperf"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>ora</l>
-          <r>orać<s n="vblex"/><s n="imperf"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>orano</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oran</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>ora</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>orząc</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>orząc</l>
-          <r>orać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>orać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21890,72 +21890,72 @@
       <e>
         <p>
           <l>słać</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ślę</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>śle</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ślą</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ślij</l>
-          <r>słać<s n="vblex"/><s n="imperf"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>sła</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="past"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="past"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>słano</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>słan</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>sła</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>śląc</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>śląc</l>
-          <r>słać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>słać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -21964,72 +21964,72 @@
       <e>
         <p>
           <l>zieć</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zę</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zi</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ź</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>zi</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
           <l>ziano</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zian</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>ze</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>zieć<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -22038,98 +22038,98 @@
       <e>
         <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zę</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ze</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>zą</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>am</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e r="LR">
         <p>
           <l>ają</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>z</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>aj</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>ano</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>an</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ząc</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>ać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -22138,72 +22138,72 @@
       <e>
         <p>
           <l>zać</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żę</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>że</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>żą</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ż</l>
-          <r>zać<s n="vblex"/><s n="imperf"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytaj"/>
       </e>
       <e>
         <p>
           <l>za</l>
-          <r>zać<s n="vblex"/><s n="imperf"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>zano</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>zan</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
       </e>
       <e>
         <p>
           <l>za</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l>żąc</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>żąc</l>
-          <r>zać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>zać<s n="vblex"/><s n="impf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
