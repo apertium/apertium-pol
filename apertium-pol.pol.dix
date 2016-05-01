@@ -9738,64 +9738,65 @@
     <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>    
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>    
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-<!-- Abbreviations -->    
-    <e lm="np"><i>np</i><par n="tu__adv"/></e>    
-    <e lm="tzw"><i>tzw</i><par n="tu__adv"/></e>    
-    <e lm="itd"><i>itd</i><par n="tu__adv"/></e>    
-    <e lm="etc"><i>etc</i><par n="tu__adv"/></e>    
-    <e lm="ca"><i>ca</i><par n="np__abbr"/></e>    
-    <e lm="ok"><i>ok</i><par n="np__abbr"/></e>    
-    <e lm="m.in."><i>m.in.</i><par n="tu__adv"/></e>    
-    <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="tu__adv"/></e>    
-    <e lm="tj"><i>tj</i><par n="tu__adv"/></e>    
-    <e lm="km"><i>km</i><par n="km__n"/></e>    
-    <e lm="kg"><i>kg</i><par n="km__n"/></e>    
-    <e lm="cm"><i>cm</i><par n="km__n"/></e>    
-    <e lm="nr"><i>nr</i><par n="km__n"/></e>    
-    <e lm="św"><i>św</i><par n="św__n"/></e>    
-    <e lm="mln"><i>mln</i><par n="km__n"/></e>    
-    <e lm="mld"><i>mld</i><par n="km__n"/></e>    
-    <e lm="inż"><i>inż</i><par n="np__abbr"/></e>    
-    <e lm="godz"><i>godz</i><par n="os__n"/></e>    
-    <e lm="tel"><i>tel</i><par n="np__abbr"/></e>    
-    <e lm="br"><i>br</i><par n="np__abbr"/></e>    
-    <e lm="dr"><i>dr</i><par n="św__n"/></e>    
-    <e lm="prof"><i>prof</i><par n="św__n"/></e>    
-    <e lm="s.a."><i>s.a.</i><par n="np__abbr"/></e>    
-    <e lm="itp"><i>itp</i><par n="tu__adv"/></e>    
-    <e lm="n.p.m."><i>n.p.m.</i><par n="tu__adv"/></e>    
-    <e lm="kpt"><i>kpt</i><par n="np__abbr"/></e>    
-    <e lm="mjr"><i>mjr</i><par n="np__abbr"/></e>    
-    <e lm="i.in."><i>i<b/>in.</i><par n="np__abbr"/></e>    
-    <e lm="tzn"><i>tzn</i><par n="tu__adv"/></e>    
-    <e lm="hl"><i>hl</i><par n="np__abbr"/></e>    
-    <e lm="ha"><i>ha</i><par n="np__abbr"/></e>    
-    <e lm="fr"><i>fr</i><par n="np__abbr"/></e>    
-    <e lm="dag"><i>dag</i><par n="np__abbr"/></e>    
-    <e lm="min"><i>min</i><par n="np__abbr"/></e>    
-    <e lm="max"><i>max</i><par n="np__abbr"/></e>    
-    <e lm="mgr"><i>mgr</i><par n="np__abbr"/></e>    
-    <e lm="str"><i>str</i><par n="np__abbr"/></e>    
-    <e lm="tys"><i>tys</i><par n="np__abbr"/></e>    
-    <e lm="mg"><i>mg</i><par n="np__abbr"/></e>    
-    <e lm="kcal"><i>kcal</i><par n="np__abbr"/></e>    
-    <e lm="www"><i>www</i><par n="np__abbr"/></e>    
-    <e lm="kb"><i>kb</i><par n="np__abbr"/></e>    
-    <e lm="mies"><i>mies</i><par n="np__abbr"/></e>    
-    <e lm="tab"><i>tab</i><par n="np__abbr"/></e>    
-    <e lm="p."><i>p.</i><par n="np__abbr"/></e>    
-    <e lm="r."><i>r.</i><par n="np__abbr"/></e>    
-    <e lm="Kč"><i>Kč</i><par n="np__abbr"/></e>    
-    <e lm="zł"><i>zł</i><par n="km__n"/></e>    
-    <e lm="n.e."><i>n.e.</i><par n="tu__adv"/></e>    
-    <e lm="p.n.e."><i>p.n.e.</i><par n="tu__adv"/></e>    
-    <e lm="gr"><i>gr</i><par n="np__abbr"/></e>    
-    <e lm="rep"><i>rep</i><par n="np__abbr"/></e>    
-    <e lm="gen"><i>gen</i><par n="św__n"/></e>    
-    <e lm="płk"><i>płk</i><par n="św__n"/></e>    
-    <e lm="ppłk"><i>ppłk</i><par n="św__n"/></e>    
-    <e lm="por"><i>por</i><par n="św__n"/></e>    
-    <e lm="ppor"><i>ppor</i><par n="św__n"/></e>    
+
+    <!-- Abbreviations -->
+    <e lm="np"><i>np</i><par n="tu__adv"/></e>
+    <e lm="tzw"><i>tzw</i><par n="tu__adv"/></e>
+    <e lm="itd"><i>itd</i><par n="tu__adv"/></e>
+    <e lm="etc"><i>etc</i><par n="tu__adv"/></e>
+    <e lm="ca"><i>ca</i><par n="np__abbr"/></e>
+    <e lm="ok"><i>ok</i><par n="np__abbr"/></e>
+    <e lm="m.in."><i>m.in.</i><par n="tu__adv"/></e>
+    <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="tu__adv"/></e>
+    <e lm="tj"><i>tj</i><par n="tu__adv"/></e>
+    <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="kg"><i>kg</i><par n="km__n"/></e>
+    <e lm="cm"><i>cm</i><par n="km__n"/></e>
+    <e lm="nr"><i>nr</i><par n="km__n"/></e>
+    <e lm="św"><i>św</i><par n="św__n"/></e>
+    <e lm="mln"><i>mln</i><par n="km__n"/></e>
+    <e lm="mld"><i>mld</i><par n="km__n"/></e>
+    <e lm="inż"><i>inż</i><par n="np__abbr"/></e>
+    <e lm="godz"><i>godz</i><par n="os__n"/></e>
+    <e lm="tel"><i>tel</i><par n="np__abbr"/></e>
+    <e lm="br"><i>br</i><par n="np__abbr"/></e>
+    <e lm="dr"><i>dr</i><par n="św__n"/></e>
+    <e lm="prof"><i>prof</i><par n="św__n"/></e>
+    <e lm="s.a."><i>s.a.</i><par n="np__abbr"/></e>
+    <e lm="itp"><i>itp</i><par n="tu__adv"/></e>
+    <e lm="n.p.m."><i>n.p.m.</i><par n="tu__adv"/></e>
+    <e lm="kpt"><i>kpt</i><par n="np__abbr"/></e>
+    <e lm="mjr"><i>mjr</i><par n="np__abbr"/></e>
+    <e lm="i.in."><i>i<b/>in.</i><par n="np__abbr"/></e>
+    <e lm="tzn"><i>tzn</i><par n="np__abbr"/></e>
+    <e lm="hl"><i>hl</i><par n="np__abbr"/></e>
+    <e lm="ha"><i>ha</i><par n="np__abbr"/></e>
+    <e lm="fr"><i>fr</i><par n="np__abbr"/></e>
+    <e lm="dag"><i>dag</i><par n="np__abbr"/></e>
+    <e lm="min"><i>min</i><par n="np__abbr"/></e>
+    <e lm="max"><i>max</i><par n="np__abbr"/></e>
+    <e lm="mgr"><i>mgr</i><par n="np__abbr"/></e>
+    <e lm="str"><i>str</i><par n="np__abbr"/></e>
+    <e lm="tys"><i>tys</i><par n="np__abbr"/></e>
+    <e lm="mg"><i>mg</i><par n="np__abbr"/></e>
+    <e lm="kcal"><i>kcal</i><par n="np__abbr"/></e>
+    <e lm="www"><i>www</i><par n="np__abbr"/></e>
+    <e lm="kb"><i>kb</i><par n="np__abbr"/></e>
+    <e lm="mies"><i>mies</i><par n="np__abbr"/></e>
+    <e lm="tab"><i>tab</i><par n="np__abbr"/></e>
+    <e lm="p."><i>p.</i><par n="np__abbr"/></e>
+    <e lm="r."><i>r.</i><par n="np__abbr"/></e>
+    <e lm="Kč"><i>Kč</i><par n="np__abbr"/></e>
+    <e lm="zł"><i>zł</i><par n="km__n"/></e>
+    <e lm="n.e."><i>n.e.</i><par n="tu__adv"/></e>
+    <e lm="p.n.e."><i>p.n.e.</i><par n="tu__adv"/></e>
+    <e lm="gr"><i>gr</i><par n="np__abbr"/></e>
+    <e lm="rep"><i>rep</i><par n="np__abbr"/></e>
+    <e lm="gen"><i>gen</i><par n="św__n"/></e>
+    <e lm="płk"><i>płk</i><par n="św__n"/></e>
+    <e lm="ppłk"><i>ppłk</i><par n="św__n"/></e>
+    <e lm="por"><i>por</i><par n="św__n"/></e>
+    <e lm="ppor"><i>ppor</i><par n="św__n"/></e>
     <e lm="bryg"><i>bryg</i><par n="św__n"/></e>
 <!--    
     <e lm="wg"><i>wg</i><par n="np__abbr"/></e>    
@@ -9817,87 +9818,90 @@
     <e lm="SGML"><i>SGML</i><par n="HTML__n"/></e>    
     <e lm="XML"><i>XML</i><par n="HTML__n"/></e>    
     <e lm="XUL"><i>XUL</i><par n="HTML__n"/></e>
-<!-- Conjunctions -->    
-    <e lm="że"><i>że</i><par n="że__cnjsub"/></e>    
-    <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>    
-    <e lm="by"><i>by</i><par n="by__cnjsub"/></e>    
-    <e lm="gdyby"><i>gdyby</i><par n="by__cnjsub"/></e>    
-    <e lm="kiedy"><i>kiedy</i><par n="by__cnjsub"/></e>    
-    <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>    
-    <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>    
-    <e lm="dopóki"><i>dopóki</i><par n="że__cnjsub"/></e>    
-    <e lm="póki"><i>póki</i><par n="że__cnjsub"/></e>    
-    <e lm="dopóty"><i>dopóty</i><par n="że__cnjsub"/></e>    
-    <e lm="iż"><i>iż</i><par n="że__cnjsub"/></e>    
-    <e lm="gdy"><i>gdy</i><par n="że__cnjsub"/></e>    
-    <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>    
-    <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>    
-    <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>    
-    <e lm="a także"><i>a<b/>także</i><par n="i__cnjcoo"/></e>    
-    <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>    
-    <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>    
-    <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>    
-    <e lm="aniżeli"><i>aniżeli</i><par n="i__cnjcoo"/></e>    
-    <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>    
-    <e lm="ani"><i>ani</i><par n="i__cnjcoo"/></e>    
-    <e lm="lub"><i>lub</i><par n="i__cnjcoo"/></e>    
-    <e lm="czyli"><i>czyli</i><par n="i__cnjcoo"/></e>    
-    <e lm="lecz"><i>lecz</i><par n="i__cnjcoo"/></e>    
-    <e lm="jak również"><i>jak<b/>również</i><par n="i__cnjcoo"/></e>    
-    <e lm="zarówno"><i>zarówno</i><par n="i__cnjcoo"/></e>    
-    <e lm="tudzież"><i>tudzież</i><par n="i__cnjcoo"/></e>    
-    <e lm="bądź"><i>bądź</i><par n="i__cnjcoo"/></e>    
-    <e lm="ni"><i>ni</i><par n="i__cnjcoo"/></e>        
-    <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="przecież"><i>przecież</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="przecie"><i>przecie</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="dlatego"><i>dlatego</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="przeto"><i>przeto</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="ponieważ"><i>ponieważ</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="podczas gdy"><i>podczas<b/>gdy</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="bowiem"><i>bowiem</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="albowiem"><i>albowiem</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="bo"><i>bo</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="dlatego że"><i>dlatego<b/>że</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="aczkolwiek"><i>aczkolwiek</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="mianowicie"><i>mianowicie</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="tudzież"><i>tudzież</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="albo"><i>albo</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="więc"><i>więc</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="a więc"><i>a<b/>więc</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="zatem"><i>zatem</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="toteż"><i>toteż</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="natomiast"><i>natomiast</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="jednak"><i>jednak</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="jednakże"><i>jednakże</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="zaś"><i>zaś</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="chociaż"><i>chociaż</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="choć"><i>choć</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="choćby"><i>choćby</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="chociażby"><i>chociażby</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="przynajmniej"><i>przynajmniej</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="co najmniej"><i>co<b/>najmniej</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="gdyż"><i>gdyż</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="pomimo że"><i>pomimo<b/>że</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="mimo że"><i>mimo<b/>że</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="zanim"><i>zanim</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nim"><i>nim</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="przedtem"><i>przedtem</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="w przeciwieństwie do"><i>w<b/>przeciwieństwie<b/>do</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="jakoby"><i>jakoby</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="niby"><i>niby</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nie wspominając"><i>nie<b/>wspominając</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nie wspominając już"><i>nie<b/>wspominając<b/>już</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nie mówiąc"><i>nie<b/>mówiąc</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nie mówiąc już"><i>nie<b/>mówiąc<b/>już</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="o ile"><i>o<b/>ile</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="a tym bardziej"><i>a<b/>tym<b/>bardziej</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nawet jeśli"><i>nawet<b/>jeśli</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="nawet jeżeli"><i>nawet<b/>jeżeli</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="w ramach"><i>w<b/>ramach</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="w tym zakresie"><i>w<b/>tym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>    
-    <e lm="we własnym zakresie"><i>we<b/>własnym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>    
+
+	<!-- Conjunctions -->
+    <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
+    <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
+    <e lm="by"><i>by</i><par n="by__cnjsub"/></e>
+    <e lm="gdyby"><i>gdyby</i><par n="by__cnjsub"/></e>
+    <e lm="kiedy"><i>kiedy</i><par n="by__cnjsub"/></e>
+    <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
+    <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
+    <e lm="dopóki"><i>dopóki</i><par n="że__cnjsub"/></e>
+    <e lm="póki"><i>póki</i><par n="że__cnjsub"/></e>
+    <e lm="dopóty"><i>dopóty</i><par n="że__cnjsub"/></e>
+    <e lm="iż"><i>iż</i><par n="że__cnjsub"/></e>
+    <e lm="gdy"><i>gdy</i><par n="że__cnjsub"/></e>
+    <e lm="to znaczy"><i>to<b/>znaczy</i><par n="i__cnjcoo"/></e>
+    <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
+    <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>
+    <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>
+    <e lm="a także"><i>a<b/>także</i><par n="i__cnjcoo"/></e>
+    <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
+    <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
+    <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
+    <e lm="aniżeli"><i>aniżeli</i><par n="i__cnjcoo"/></e>
+    <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>
+    <e lm="ani"><i>ani</i><par n="i__cnjcoo"/></e>
+    <e lm="lub"><i>lub</i><par n="i__cnjcoo"/></e>
+    <e lm="czyli"><i>czyli</i><par n="i__cnjcoo"/></e>
+    <e lm="lecz"><i>lecz</i><par n="i__cnjcoo"/></e>
+    <e lm="jak również"><i>jak<b/>również</i><par n="i__cnjcoo"/></e>
+    <e lm="zarówno"><i>zarówno</i><par n="i__cnjcoo"/></e>
+    <e lm="tudzież"><i>tudzież</i><par n="i__cnjcoo"/></e>
+    <e lm="bądź"><i>bądź</i><par n="i__cnjcoo"/></e>
+    <e lm="ni"><i>ni</i><par n="i__cnjcoo"/></e>
+    
+    <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przecież"><i>przecież</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przecie"><i>przecie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="dlatego"><i>dlatego</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przeto"><i>przeto</i><par n="jeśli__cnjadv"/></e>
+    <e lm="ponieważ"><i>ponieważ</i><par n="jeśli__cnjadv"/></e>
+    <e lm="podczas gdy"><i>podczas<b/>gdy</i><par n="jeśli__cnjadv"/></e>
+    <e lm="bowiem"><i>bowiem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="albowiem"><i>albowiem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="bo"><i>bo</i><par n="jeśli__cnjadv"/></e>
+    <e lm="dlatego że"><i>dlatego<b/>że</i><par n="jeśli__cnjadv"/></e>
+    <e lm="aczkolwiek"><i>aczkolwiek</i><par n="jeśli__cnjadv"/></e>
+    <e lm="mianowicie"><i>mianowicie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="tudzież"><i>tudzież</i><par n="jeśli__cnjadv"/></e>
+    <e lm="albo"><i>albo</i><par n="jeśli__cnjadv"/></e>
+    <e lm="więc"><i>więc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="a więc"><i>a<b/>więc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zatem"><i>zatem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="toteż"><i>toteż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="natomiast"><i>natomiast</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jednak"><i>jednak</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jednakże"><i>jednakże</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zaś"><i>zaś</i><par n="jeśli__cnjadv"/></e>
+    <e lm="chociaż"><i>chociaż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="choć"><i>choć</i><par n="jeśli__cnjadv"/></e>
+    <e lm="choćby"><i>choćby</i><par n="jeśli__cnjadv"/></e>
+    <e lm="chociażby"><i>chociażby</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przynajmniej"><i>przynajmniej</i><par n="jeśli__cnjadv"/></e>
+    <e lm="co najmniej"><i>co<b/>najmniej</i><par n="jeśli__cnjadv"/></e>
+    <e lm="gdyż"><i>gdyż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="pomimo że"><i>pomimo<b/>że</i><par n="jeśli__cnjadv"/></e>
+    <e lm="mimo że"><i>mimo<b/>że</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zanim"><i>zanim</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nim"><i>nim</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przedtem"><i>przedtem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w przeciwieństwie do"><i>w<b/>przeciwieństwie<b/>do</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jakoby"><i>jakoby</i><par n="jeśli__cnjadv"/></e>
+    <e lm="niby"><i>niby</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie wspominając"><i>nie<b/>wspominając</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie wspominając już"><i>nie<b/>wspominając<b/>już</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie mówiąc"><i>nie<b/>mówiąc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie mówiąc już"><i>nie<b/>mówiąc<b/>już</i><par n="jeśli__cnjadv"/></e>
+    <e lm="o ile"><i>o<b/>ile</i><par n="jeśli__cnjadv"/></e>
+    <e lm="a tym bardziej"><i>a<b/>tym<b/>bardziej</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nawet jeśli"><i>nawet<b/>jeśli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nawet jeżeli"><i>nawet<b/>jeżeli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w ramach"><i>w<b/>ramach</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w tym zakresie"><i>w<b/>tym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="we własnym zakresie"><i>we<b/>własnym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
     <e lm="w ograniczonym zakresie"><i>w<b/>ograniczonym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
 <!-- Pronouns -->    
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>    
@@ -13301,208 +13305,206 @@
     <e lm="na zdrowie"><i>na<b/>zdrowie</i><par n="tu__adv"/></e>    
     <e lm="na zawsze"><i>na<b/>zawsze</i><par n="tu__adv"/></e>    
     <e lm="na przykład"><i>na<b/>przykład</i><par n="tu__adv"/></e>
-<!-- Mikel says: double check this entry  -->    
-    <e lm="to znaczy"><i>to<b/>znaczy</i><par n="tu__adv"/></e>    
-    <e lm="niedawno"><i>niedawno</i><par n="tu__adv"/></e>    
-    <e lm="słodko"><i>słodko</i><par n="tu__adv"/></e>    
-    <e lm="do góry nogami"><i>do<b/>góry<b/>nogami</i><par n="tu__adv"/></e>    
-    <e lm="jednocześnie"><i>jednocześnie</i><par n="tu__adv"/></e>    
-    <e lm="tymczasem"><i>tymczasem</i><par n="tu__adv"/></e>    
-    <e lm="typowo"><i>typowo</i><par n="tu__adv"/></e>    
-    <e lm="też"><i>też</i><par n="tu__adv"/></e>    
-    <e lm="nawet"><i>nawet</i><par n="tu__adv"/></e>    
-    <e lm="z drugiej strony"><i>z<b/>drugiej<b/>strony</i><par n="tu__adv"/></e>    
-    <e lm="w niedługim czasie"><i>w<b/>niedługim<b/>czasie</i><par n="tu__adv"/></e>    
-    <e lm="z marszu"><i>z<b/>marszu</i><par n="tu__adv"/></e>    
-    <e lm="z miejsca"><i>z<b/>miejsca</i><par n="tu__adv"/></e>    
-    <e lm="od ręki"><i>od<b/>ręki</i><par n="tu__adv"/></e>    
-    <e lm="od razu"><i>od<b/>razu</i><par n="tu__adv"/></e>    
-    <e lm="niebawem"><i>niebawem</i><par n="tu__adv"/></e>    
-    <e lm="wkrótce"><i>wkrótce</i><par n="tu__adv"/></e>    
-    <e lm="zaraz"><i>zaraz</i><par n="tu__adv"/></e>    
-    <e lm="rychło"><i>rychło</i><par n="tu__adv"/></e>    
-    <e lm="niedługo"><i>niedługo</i><par n="tu__adv"/></e>    
-    <e lm="natychmiast"><i>natychmiast</i><par n="tu__adv"/></e>    
-    <e lm="niezwłocznie"><i>niezwłocznie</i><par n="tu__adv"/></e>    
-    <e lm="wnet"><i>wnet</i><par n="tu__adv"/></e>    
-    <e lm="potem"><i>potem</i><par n="tu__adv"/></e>    
-    <e lm="może"><i>może</i><par n="tu__adv"/></e>    
-    <e lm="być może"><i>być<b/>może</i><par n="tu__adv"/></e>    
-    <e lm="ostatecznie"><i>ostatecznie</i><par n="tu__adv"/></e>    
-    <e lm="wreszcie"><i>wreszcie</i><par n="tu__adv"/></e>    
-    <e lm="nareszcie"><i>nareszcie</i><par n="tu__adv"/></e>    
-    <e lm="w końcu"><i>w<b/>końcu</i><par n="tu__adv"/></e>    
-    <e lm="oczywiście"><i>oczywiście</i><par n="tu__adv"/></e>    
-    <e lm="bezpośrednio"><i>bezpośrednio</i><par n="tu__adv"/></e>    
-    <e lm="raczej"><i>raczej</i><par n="tu__adv"/></e>    
-    <e lm="w rzeczywistości"><i>w<b/>rzeczywistości</i><par n="tu__adv"/></e>    
-    <e lm="w ogóle"><i>w<b/>ogóle</i><par n="tu__adv"/></e>    
-    <e lm="donikąd"><i>donikąd</i><par n="tu__adv"/></e>    
-    <e lm="znikąd"><i>znikąd</i><par n="tu__adv"/></e>    
-    <e lm="nigdzie"><i>nigdzie</i><par n="tu__adv"/></e>    
-    <e lm="nijak"><i>nijak</i><par n="tu__adv"/></e>    
-    <e lm="dotąd"><i>dotąd</i><par n="tu__adv"/></e>    
-    <e lm="administracyjnie"><i>administracyjnie</i><par n="tu__adv"/></e>    
-    <e lm="aktualnie"><i>aktualnie</i><par n="tu__adv"/></e>    
-    <e lm="analogicznie"><i>analogicznie</i><par n="tu__adv"/></e>    
-    <e lm="automatycznie"><i>automatycznie</i><par n="tu__adv"/></e>    
-    <e lm="bezskutecznie"><i>bezskutecznie</i><par n="tu__adv"/></e>    
-    <e lm="całkiem"><i>całkiem</i><par n="tu__adv"/></e>    
-    <e lm="celowo"><i>celowo</i><par n="tu__adv"/></e>    
-    <e lm="ciągle"><i>ciągle</i><par n="tu__adv"/></e>    
-    <e lm="całkowicie"><i>całkowicie</i><par n="tu__adv"/></e>    
-    <e lm="corocznie"><i>corocznie</i><par n="tu__adv"/></e>    
-    <e lm="czasowo"><i>czasowo</i><par n="tu__adv"/></e>    
-    <e lm="częściowo"><i>częściowo</i><par n="tu__adv"/></e>    
-    <e lm="czterokrotnie"><i>czterokrotnie</i><par n="tu__adv"/></e>    
-    <e lm="dopiero"><i>dopiero</i><par n="tu__adv"/></e>    
-    <e lm="dopiero co"><i>dopiero<b/>co</i><par n="tu__adv"/></e>    
-    <e lm="dosłownie"><i>dosłownie</i><par n="tu__adv"/></e>    
-    <e lm="dotychczas"><i>dotychczas</i><par n="tu__adv"/></e>    
-    <e lm="dziennie"><i>dziennie</i><par n="tu__adv"/></e>    
-    <e lm="faktycznie"><i>faktycznie</i><par n="tu__adv"/></e>    
-    <e lm="fizycznie"><i>fizycznie</i><par n="tu__adv"/></e>    
-    <e lm="historycznie"><i>historycznie</i><par n="tu__adv"/></e>    
-    <e lm="inaczej"><i>inaczej</i><par n="tu__adv"/></e>    
-    <e lm="indywidualnie"><i>indywidualnie</i><par n="tu__adv"/></e>    
-    <e lm="kilkakrotnie"><i>kilkakrotnie</i><par n="tu__adv"/></e>    
-    <e lm="kilkukrotnie"><i>kilkukrotnie</i><par n="tu__adv"/></e>    
-    <e lm="maksymalnie"><i>maksymalnie</i><par n="tu__adv"/></e>    
-    <e lm="masowo"><i>masowo</i><par n="tu__adv"/></e>    
-    <e lm="nadal"><i>nadal</i><par n="tu__adv"/></e>    
-    <e lm="w dalszym ciągu"><i>w<b/>dalszym<b/>ciągu</i><par n="tu__adv"/></e>    
-    <e lm="naprawdę"><i>naprawdę</i><par n="tu__adv"/></e>    
-    <e lm="następująco"><i>następująco</i><par n="tu__adv"/></e>    
-    <e lm="nawzajem"><i>nawzajem</i><par n="tu__adv"/></e>    
-    <e lm="jak widać"><i>jak<b/>widać</i><par n="tu__adv"/></e>    
-    <e lm="negatywnie"><i>negatywnie</i><par n="tu__adv"/></e>    
-    <e lm="niejako"><i>niejako</i><par n="tu__adv"/></e>    
-    <e lm="obecnie"><i>obecnie</i><par n="tu__adv"/></e>    
-    <e lm="odnośnie"><i>odnośnie</i><par n="tu__adv"/></e>    
-    <e lm="osobiście"><i>osobiście</i><par n="tu__adv"/></e>    
-    <e lm="ostatnio"><i>ostatnio</i><par n="tu__adv"/></e>    
-    <e lm="ówcześnie"><i>ówcześnie</i><par n="tu__adv"/></e>    
-    <e lm="pewno"><i>pewno</i><par n="tu__adv"/></e>    
-    <e lm="pierwotnie"><i>pierwotnie</i><par n="tu__adv"/></e>    
-    <e lm="pięciokrotnie"><i>pięciokrotnie</i><par n="tu__adv"/></e>    
-    <e lm="początkowo"><i>początkowo</i><par n="tu__adv"/></e>    
-    <e lm="podobnie"><i>podobnie</i><par n="tu__adv"/></e>    
-    <e lm="ponownie"><i>ponownie</i><par n="tu__adv"/></e>    
-    <e lm="poprzednio"><i>poprzednio</i><par n="tu__adv"/></e>    
-    <e lm="pośmiertnie"><i>pośmiertnie</i><par n="tu__adv"/></e>    
-    <e lm="pośrednio"><i>pośrednio</i><par n="tu__adv"/></e>    
-    <e lm="powoli"><i>powoli</i><par n="tu__adv"/></e>    
-    <e lm="powtórnie"><i>powtórnie</i><par n="tu__adv"/></e>    
-    <e lm="północno"><i>północno</i><par n="tu__adv"/></e>    
-    <e lm="prawnie"><i>prawnie</i><par n="tu__adv"/></e>    
-    <e lm="przeciwnie"><i>przeciwnie</i><par n="tu__adv"/></e>    
-    <e lm="przeważnie"><i>przeważnie</i><par n="tu__adv"/></e>    
-    <e lm="przykładowo"><i>przykładowo</i><par n="tu__adv"/></e>    
-    <e lm="przypadkowo"><i>przypadkowo</i><par n="tu__adv"/></e>    
-    <e lm="psychicznie"><i>psychicznie</i><par n="tu__adv"/></e>    
-    <e lm="publicznie"><i>publicznie</i><par n="tu__adv"/></e>    
-    <e lm="ręcznie"><i>ręcznie</i><par n="tu__adv"/></e>    
-    <e lm="rocznie"><i>rocznie</i><par n="tu__adv"/></e>    
-    <e lm="równocześnie"><i>równocześnie</i><par n="tu__adv"/></e>    
-    <e lm="równolegle"><i>równolegle</i><par n="tu__adv"/></e>    
-    <e lm="rzeczywiście"><i>rzeczywiście</i><par n="tu__adv"/></e>    
-    <e lm="specjalnie"><i>specjalnie</i><par n="tu__adv"/></e>    
-    <e lm="społecznie"><i>społecznie</i><par n="tu__adv"/></e>    
-    <e lm="sporadycznie"><i>sporadycznie</i><par n="tu__adv"/></e>    
-    <e lm="stale"><i>stale</i><par n="tu__adv"/></e>    
-    <e lm="stopniowo"><i>stopniowo</i><par n="tu__adv"/></e>    
-    <e lm="super"><i>super</i><par n="tu__adv"/></e>    
-    <e lm="średnio"><i>średnio</i><par n="tu__adv"/></e>    
-    <e lm="technicznie"><i>technicznie</i><par n="tu__adv"/></e>    
-    <e lm="teoretycznie"><i>teoretycznie</i><par n="tu__adv"/></e>    
-    <e lm="tradycyjnie"><i>tradycyjnie</i><par n="tu__adv"/></e>    
-    <e lm="trzykrotnie"><i>trzykrotnie</i><par n="tu__adv"/></e>    
-    <e lm="tymczasowo"><i>tymczasowo</i><par n="tu__adv"/></e>    
-    <e lm="uprzednio"><i>uprzednio</i><par n="tu__adv"/></e>    
-    <e lm="wcale"><i>wcale</i><par n="tu__adv"/></e>    
-    <e lm="wciąż"><i>wciąż</i><par n="tu__adv"/></e>    
-    <e lm="wielokrotnie"><i>wielokrotnie</i><par n="tu__adv"/></e>    
-    <e lm="właśnie"><i>właśnie</i><par n="tu__adv"/></e>    
-    <e lm="włącznie"><i>włącznie</i><par n="tu__adv"/></e>    
-    <e lm="wprawdzie"><i>wprawdzie</i><par n="tu__adv"/></e>    
-    <e lm="wprost"><i>wprost</i><par n="tu__adv"/></e>    
-    <e lm="wręcz"><i>wręcz</i><par n="tu__adv"/></e>    
-    <e lm="wspólnie"><i>wspólnie</i><par n="tu__adv"/></e>    
-    <e lm="współcześnie"><i>współcześnie</i><par n="tu__adv"/></e>    
-    <e lm="wszędzie"><i>wszędzie</i><par n="tu__adv"/></e>    
-    <e lm="wyłącznie"><i>wyłącznie</i><par n="tu__adv"/></e>    
-    <e lm="wysoce"><i>wysoce</i><par n="tu__adv"/></e>    
-    <e lm="wzajemnie"><i>wzajemnie</i><par n="tu__adv"/></e>    
-    <e lm="względnie"><i>względnie</i><par n="tu__adv"/></e>    
-    <e lm="zaledwie"><i>zaledwie</i><par n="tu__adv"/></e>    
-    <e lm="zależnie"><i>zależnie</i><par n="tu__adv"/></e>    
-    <e lm="zapewne"><i>zapewne</i><par n="tu__adv"/></e>    
-    <e lm="zarazem"><i>zarazem</i><par n="tu__adv"/></e>    
-    <e lm="zasadniczo"><i>zasadniczo</i><par n="tu__adv"/></e>    
-    <e lm="zawsze"><i>zawsze</i><par n="tu__adv"/></e>    
-    <e lm="zazwyczaj"><i>zazwyczaj</i><par n="tu__adv"/></e>    
-    <e lm="zdecydowanie"><i>zdecydowanie</i><par n="tu__adv"/></e>    
-    <e lm="znacząco"><i>znacząco</i><par n="tu__adv"/></e>    
-    <e lm="zwłaszcza"><i>zwłaszcza</i><par n="tu__adv"/></e>    
-    <e lm="ewentualnie"><i>ewentualnie</i><par n="tu__adv"/></e>    
-    <e lm="następnie"><i>następnie</i><par n="tu__adv"/></e>    
-    <e lm="niestety"><i>niestety</i><par n="tu__adv"/></e>    
-    <e lm="wówczas"><i>wówczas</i><par n="tu__adv"/></e>    
-    <e lm="znowu"><i>znowu</i><par n="tu__adv"/></e>    
-    <e lm="znów"><i>znów</i><par n="tu__adv"/></e>    
-    <e lm="dwukrotnie"><i>dwukrotnie</i><par n="tu__adv"/></e>    
-    <e lm="wyjątkowo"><i>wyjątkowo</i><par n="tu__adv"/></e>    
-    <e lm="stosunkowo"><i>stosunkowo</i><par n="tu__adv"/></e>    
-    <e lm="dosyć"><i>dosyć</i><par n="tu__adv"/></e>    
-    <e lm="dość"><i>dość</i><par n="tu__adv"/></e>    
-    <e lm="nieco"><i>nieco</i><par n="tu__adv"/></e>    
-    <e lm="niemal"><i>niemal</i><par n="tu__adv"/></e>    
-    <e lm="nieomal"><i>nieomal</i><par n="tu__adv"/></e>    
-    <e lm="niemalże"><i>niemalże</i><par n="tu__adv"/></e>    
-    <e lm="wystarczająco"><i>wystarczająco</i><par n="tu__adv"/></e>    
-    <e lm="bezpowrotnie"><i>bezpowrotnie</i><par n="tu__adv"/></e>    
-    <e lm="doprawdy"><i>doprawdy</i><par n="tu__adv"/></e>    
-    <e lm="ekstra"><i>ekstra</i><par n="tu__adv"/></e>    
-    <e lm="milcząco"><i>milcząco</i><par n="tu__adv"/></e>    
-    <e lm="pieszo"><i>pieszo</i><par n="tu__adv"/></e>    
-    <e lm="potajemnie"><i>potajemnie</i><par n="tu__adv"/></e>    
-    <e lm="przykro"><i>przykro</i><par n="tu__adv"/></e>    
-    <e lm="bezproblemowo"><i>bezproblemowo</i><par n="tu__adv"/></e>    
-    <e lm="bezmyślnie"><i>bezmyślnie</i><par n="tu__adv"/></e>    
-    <e lm="ambulatoryjnie"><i>ambulatoryjnie</i><par n="tu__adv"/></e>    
-    <e lm="bezbłędnie"><i>bezbłędnie</i><par n="tu__adv"/></e>    
-    <e lm="brawurowo"><i>brawurowo</i><par n="tu__adv"/></e>    
-    <e lm="błyskawicznie"><i>błyskawicznie</i><par n="tu__adv"/></e>    
-    <e lm="centralnie"><i>centralnie</i><par n="tu__adv"/></e>    
-    <e lm="definitywnie"><i>definitywnie</i><par n="tu__adv"/></e>    
-    <e lm="demonstracyjnie"><i>demonstracyjnie</i><par n="tu__adv"/></e>    
-    <e lm="dobrowolnie"><i>dobrowolnie</i><par n="tu__adv"/></e>    
-    <e lm="ewidentnie"><i>ewidentnie</i><par n="tu__adv"/></e>    
-    <e lm="gorączkowo"><i>gorączkowo</i><par n="tu__adv"/></e>    
-    <e lm="groteskowo"><i>groteskowo</i><par n="tu__adv"/></e>    
-    <e lm="ideowo"><i>ideowo</i><par n="tu__adv"/></e>    
-    <e lm="kurczowo"><i>kurczowo</i><par n="tu__adv"/></e>    
-    <e lm="miesięcznie"><i>miesięcznie</i><par n="tu__adv"/></e>    
-    <e lm="nadzwyczajnie"><i>nadzwyczajnie</i><par n="tu__adv"/></e>    
-    <e lm="nerwowo"><i>nerwowo</i><par n="tu__adv"/></e>    
-    <e lm="nieoczekiwanie"><i>nieoczekiwanie</i><par n="tu__adv"/></e>    
-    <e lm="obustronnie"><i>obustronnie</i><par n="tu__adv"/></e>    
-    <e lm="oczekiwanie"><i>oczekiwanie</i><par n="tu__adv"/></e>    
-    <e lm="oddzielnie"><i>oddzielnie</i><par n="tu__adv"/></e>    
-    <e lm="ostentacyjnie"><i>ostentacyjnie</i><par n="tu__adv"/></e>    
-    <e lm="samoczynnie"><i>samoczynnie</i><par n="tu__adv"/></e>    
-    <e lm="pisemnie"><i>pisemnie</i><par n="tu__adv"/></e>    
-    <e lm="pokazowo"><i>pokazowo</i><par n="tu__adv"/></e>    
-    <e lm="przedwczoraj"><i>przedwczoraj</i><par n="tu__adv"/></e>    
-    <e lm="relatywnie"><i>relatywnie</i><par n="tu__adv"/></e>    
-    <e lm="ustawicznie"><i>ustawicznie</i><par n="tu__adv"/></e>    
-    <e lm="triumfalnie"><i>triumfalnie</i><par n="tu__adv"/></e>    
-    <e lm="standardowo"><i>standardowo</i><par n="tu__adv"/></e>    
-    <e lm="rytualnie"><i>rytualnie</i><par n="tu__adv"/></e>    
-    <e lm="złowieszczo"><i>złowieszczo</i><par n="tu__adv"/></e>    
-    <e lm="zaocznie"><i>zaocznie</i><par n="tu__adv"/></e>    
-    <e lm="zdalnie"><i>zdalnie</i><par n="tu__adv"/></e>    
-    <e lm="ślepo"><i>ślepo</i><par n="tu__adv"/></e>    
+    <e lm="niedawno"><i>niedawno</i><par n="tu__adv"/></e>
+    <e lm="słodko"><i>słodko</i><par n="tu__adv"/></e>
+    <e lm="do góry nogami"><i>do<b/>góry<b/>nogami</i><par n="tu__adv"/></e>
+    <e lm="jednocześnie"><i>jednocześnie</i><par n="tu__adv"/></e>
+    <e lm="tymczasem"><i>tymczasem</i><par n="tu__adv"/></e>
+    <e lm="typowo"><i>typowo</i><par n="tu__adv"/></e>
+    <e lm="też"><i>też</i><par n="tu__adv"/></e>
+    <e lm="nawet"><i>nawet</i><par n="tu__adv"/></e>
+    <e lm="z drugiej strony"><i>z<b/>drugiej<b/>strony</i><par n="tu__adv"/></e>
+    <e lm="w niedługim czasie"><i>w<b/>niedługim<b/>czasie</i><par n="tu__adv"/></e>
+    <e lm="z marszu"><i>z<b/>marszu</i><par n="tu__adv"/></e>
+    <e lm="z miejsca"><i>z<b/>miejsca</i><par n="tu__adv"/></e>
+    <e lm="od ręki"><i>od<b/>ręki</i><par n="tu__adv"/></e>
+    <e lm="od razu"><i>od<b/>razu</i><par n="tu__adv"/></e>
+    <e lm="niebawem"><i>niebawem</i><par n="tu__adv"/></e>
+    <e lm="wkrótce"><i>wkrótce</i><par n="tu__adv"/></e>
+    <e lm="zaraz"><i>zaraz</i><par n="tu__adv"/></e>
+    <e lm="rychło"><i>rychło</i><par n="tu__adv"/></e>
+    <e lm="niedługo"><i>niedługo</i><par n="tu__adv"/></e>
+    <e lm="natychmiast"><i>natychmiast</i><par n="tu__adv"/></e>
+    <e lm="niezwłocznie"><i>niezwłocznie</i><par n="tu__adv"/></e>
+    <e lm="wnet"><i>wnet</i><par n="tu__adv"/></e>
+    <e lm="potem"><i>potem</i><par n="tu__adv"/></e>
+    <e lm="może"><i>może</i><par n="tu__adv"/></e>
+    <e lm="być może"><i>być<b/>może</i><par n="tu__adv"/></e>
+    <e lm="ostatecznie"><i>ostatecznie</i><par n="tu__adv"/></e>
+    <e lm="wreszcie"><i>wreszcie</i><par n="tu__adv"/></e>
+    <e lm="nareszcie"><i>nareszcie</i><par n="tu__adv"/></e>
+    <e lm="w końcu"><i>w<b/>końcu</i><par n="tu__adv"/></e>
+    <e lm="oczywiście"><i>oczywiście</i><par n="tu__adv"/></e>
+    <e lm="bezpośrednio"><i>bezpośrednio</i><par n="tu__adv"/></e>
+    <e lm="raczej"><i>raczej</i><par n="tu__adv"/></e>
+    <e lm="w rzeczywistości"><i>w<b/>rzeczywistości</i><par n="tu__adv"/></e>
+    <e lm="w ogóle"><i>w<b/>ogóle</i><par n="tu__adv"/></e>
+    <e lm="donikąd"><i>donikąd</i><par n="tu__adv"/></e>
+    <e lm="znikąd"><i>znikąd</i><par n="tu__adv"/></e>
+    <e lm="nigdzie"><i>nigdzie</i><par n="tu__adv"/></e>
+    <e lm="nijak"><i>nijak</i><par n="tu__adv"/></e>
+    <e lm="dotąd"><i>dotąd</i><par n="tu__adv"/></e>
+    <e lm="administracyjnie"><i>administracyjnie</i><par n="tu__adv"/></e>
+    <e lm="aktualnie"><i>aktualnie</i><par n="tu__adv"/></e>
+    <e lm="analogicznie"><i>analogicznie</i><par n="tu__adv"/></e>
+    <e lm="automatycznie"><i>automatycznie</i><par n="tu__adv"/></e>
+    <e lm="bezskutecznie"><i>bezskutecznie</i><par n="tu__adv"/></e>
+    <e lm="całkiem"><i>całkiem</i><par n="tu__adv"/></e>
+    <e lm="celowo"><i>celowo</i><par n="tu__adv"/></e>
+    <e lm="ciągle"><i>ciągle</i><par n="tu__adv"/></e>
+    <e lm="całkowicie"><i>całkowicie</i><par n="tu__adv"/></e>
+    <e lm="corocznie"><i>corocznie</i><par n="tu__adv"/></e>
+    <e lm="czasowo"><i>czasowo</i><par n="tu__adv"/></e>
+    <e lm="częściowo"><i>częściowo</i><par n="tu__adv"/></e>
+    <e lm="czterokrotnie"><i>czterokrotnie</i><par n="tu__adv"/></e>
+    <e lm="dopiero"><i>dopiero</i><par n="tu__adv"/></e>
+    <e lm="dopiero co"><i>dopiero<b/>co</i><par n="tu__adv"/></e>
+    <e lm="dosłownie"><i>dosłownie</i><par n="tu__adv"/></e>
+    <e lm="dotychczas"><i>dotychczas</i><par n="tu__adv"/></e>
+    <e lm="dziennie"><i>dziennie</i><par n="tu__adv"/></e>
+    <e lm="faktycznie"><i>faktycznie</i><par n="tu__adv"/></e>
+    <e lm="fizycznie"><i>fizycznie</i><par n="tu__adv"/></e>
+    <e lm="historycznie"><i>historycznie</i><par n="tu__adv"/></e>
+    <e lm="inaczej"><i>inaczej</i><par n="tu__adv"/></e>
+    <e lm="indywidualnie"><i>indywidualnie</i><par n="tu__adv"/></e>
+    <e lm="kilkakrotnie"><i>kilkakrotnie</i><par n="tu__adv"/></e>
+    <e lm="kilkukrotnie"><i>kilkukrotnie</i><par n="tu__adv"/></e>
+    <e lm="maksymalnie"><i>maksymalnie</i><par n="tu__adv"/></e>
+    <e lm="masowo"><i>masowo</i><par n="tu__adv"/></e>
+    <e lm="nadal"><i>nadal</i><par n="tu__adv"/></e>
+    <e lm="w dalszym ciągu"><i>w<b/>dalszym<b/>ciągu</i><par n="tu__adv"/></e>
+    <e lm="naprawdę"><i>naprawdę</i><par n="tu__adv"/></e>
+    <e lm="następująco"><i>następująco</i><par n="tu__adv"/></e>
+    <e lm="nawzajem"><i>nawzajem</i><par n="tu__adv"/></e>
+    <e lm="jak widać"><i>jak<b/>widać</i><par n="tu__adv"/></e>
+    <e lm="negatywnie"><i>negatywnie</i><par n="tu__adv"/></e>
+    <e lm="niejako"><i>niejako</i><par n="tu__adv"/></e>
+    <e lm="obecnie"><i>obecnie</i><par n="tu__adv"/></e>
+    <e lm="odnośnie"><i>odnośnie</i><par n="tu__adv"/></e>
+    <e lm="osobiście"><i>osobiście</i><par n="tu__adv"/></e>
+    <e lm="ostatnio"><i>ostatnio</i><par n="tu__adv"/></e>
+    <e lm="ówcześnie"><i>ówcześnie</i><par n="tu__adv"/></e>
+    <e lm="pewno"><i>pewno</i><par n="tu__adv"/></e>
+    <e lm="pierwotnie"><i>pierwotnie</i><par n="tu__adv"/></e>
+    <e lm="pięciokrotnie"><i>pięciokrotnie</i><par n="tu__adv"/></e>
+    <e lm="początkowo"><i>początkowo</i><par n="tu__adv"/></e>
+    <e lm="podobnie"><i>podobnie</i><par n="tu__adv"/></e>
+    <e lm="ponownie"><i>ponownie</i><par n="tu__adv"/></e>
+    <e lm="poprzednio"><i>poprzednio</i><par n="tu__adv"/></e>
+    <e lm="pośmiertnie"><i>pośmiertnie</i><par n="tu__adv"/></e>
+    <e lm="pośrednio"><i>pośrednio</i><par n="tu__adv"/></e>
+    <e lm="powoli"><i>powoli</i><par n="tu__adv"/></e>
+    <e lm="powtórnie"><i>powtórnie</i><par n="tu__adv"/></e>
+    <e lm="północno"><i>północno</i><par n="tu__adv"/></e>
+    <e lm="prawnie"><i>prawnie</i><par n="tu__adv"/></e>
+    <e lm="przeciwnie"><i>przeciwnie</i><par n="tu__adv"/></e>
+    <e lm="przeważnie"><i>przeważnie</i><par n="tu__adv"/></e>
+    <e lm="przykładowo"><i>przykładowo</i><par n="tu__adv"/></e>
+    <e lm="przypadkowo"><i>przypadkowo</i><par n="tu__adv"/></e>
+    <e lm="psychicznie"><i>psychicznie</i><par n="tu__adv"/></e>
+    <e lm="publicznie"><i>publicznie</i><par n="tu__adv"/></e>
+    <e lm="ręcznie"><i>ręcznie</i><par n="tu__adv"/></e>
+    <e lm="rocznie"><i>rocznie</i><par n="tu__adv"/></e>
+    <e lm="równocześnie"><i>równocześnie</i><par n="tu__adv"/></e>
+    <e lm="równolegle"><i>równolegle</i><par n="tu__adv"/></e>
+    <e lm="rzeczywiście"><i>rzeczywiście</i><par n="tu__adv"/></e>
+    <e lm="specjalnie"><i>specjalnie</i><par n="tu__adv"/></e>
+    <e lm="społecznie"><i>społecznie</i><par n="tu__adv"/></e>
+    <e lm="sporadycznie"><i>sporadycznie</i><par n="tu__adv"/></e>
+    <e lm="stale"><i>stale</i><par n="tu__adv"/></e>
+    <e lm="stopniowo"><i>stopniowo</i><par n="tu__adv"/></e>
+    <e lm="super"><i>super</i><par n="tu__adv"/></e>
+    <e lm="średnio"><i>średnio</i><par n="tu__adv"/></e>
+    <e lm="technicznie"><i>technicznie</i><par n="tu__adv"/></e>
+    <e lm="teoretycznie"><i>teoretycznie</i><par n="tu__adv"/></e>
+    <e lm="tradycyjnie"><i>tradycyjnie</i><par n="tu__adv"/></e>
+    <e lm="trzykrotnie"><i>trzykrotnie</i><par n="tu__adv"/></e>
+    <e lm="tymczasowo"><i>tymczasowo</i><par n="tu__adv"/></e>
+    <e lm="uprzednio"><i>uprzednio</i><par n="tu__adv"/></e>
+    <e lm="wcale"><i>wcale</i><par n="tu__adv"/></e>
+    <e lm="wciąż"><i>wciąż</i><par n="tu__adv"/></e>
+    <e lm="wielokrotnie"><i>wielokrotnie</i><par n="tu__adv"/></e>
+    <e lm="właśnie"><i>właśnie</i><par n="tu__adv"/></e>
+    <e lm="włącznie"><i>włącznie</i><par n="tu__adv"/></e>
+    <e lm="wprawdzie"><i>wprawdzie</i><par n="tu__adv"/></e>
+    <e lm="wprost"><i>wprost</i><par n="tu__adv"/></e>
+    <e lm="wręcz"><i>wręcz</i><par n="tu__adv"/></e>
+    <e lm="wspólnie"><i>wspólnie</i><par n="tu__adv"/></e>
+    <e lm="współcześnie"><i>współcześnie</i><par n="tu__adv"/></e>
+    <e lm="wszędzie"><i>wszędzie</i><par n="tu__adv"/></e>
+    <e lm="wyłącznie"><i>wyłącznie</i><par n="tu__adv"/></e>
+    <e lm="wysoce"><i>wysoce</i><par n="tu__adv"/></e>
+    <e lm="wzajemnie"><i>wzajemnie</i><par n="tu__adv"/></e>
+    <e lm="względnie"><i>względnie</i><par n="tu__adv"/></e>
+    <e lm="zaledwie"><i>zaledwie</i><par n="tu__adv"/></e>
+    <e lm="zależnie"><i>zależnie</i><par n="tu__adv"/></e>
+    <e lm="zapewne"><i>zapewne</i><par n="tu__adv"/></e>
+    <e lm="zarazem"><i>zarazem</i><par n="tu__adv"/></e>
+    <e lm="zasadniczo"><i>zasadniczo</i><par n="tu__adv"/></e>
+    <e lm="zawsze"><i>zawsze</i><par n="tu__adv"/></e>
+    <e lm="zazwyczaj"><i>zazwyczaj</i><par n="tu__adv"/></e>
+    <e lm="zdecydowanie"><i>zdecydowanie</i><par n="tu__adv"/></e>
+    <e lm="znacząco"><i>znacząco</i><par n="tu__adv"/></e>
+    <e lm="zwłaszcza"><i>zwłaszcza</i><par n="tu__adv"/></e>
+    <e lm="ewentualnie"><i>ewentualnie</i><par n="tu__adv"/></e>
+    <e lm="następnie"><i>następnie</i><par n="tu__adv"/></e>
+    <e lm="niestety"><i>niestety</i><par n="tu__adv"/></e>
+    <e lm="wówczas"><i>wówczas</i><par n="tu__adv"/></e>
+    <e lm="znowu"><i>znowu</i><par n="tu__adv"/></e>
+    <e lm="znów"><i>znów</i><par n="tu__adv"/></e>
+    <e lm="dwukrotnie"><i>dwukrotnie</i><par n="tu__adv"/></e>
+    <e lm="wyjątkowo"><i>wyjątkowo</i><par n="tu__adv"/></e>
+    <e lm="stosunkowo"><i>stosunkowo</i><par n="tu__adv"/></e>
+    <e lm="dosyć"><i>dosyć</i><par n="tu__adv"/></e>
+    <e lm="dość"><i>dość</i><par n="tu__adv"/></e>
+    <e lm="nieco"><i>nieco</i><par n="tu__adv"/></e>
+    <e lm="niemal"><i>niemal</i><par n="tu__adv"/></e>
+    <e lm="nieomal"><i>nieomal</i><par n="tu__adv"/></e>
+    <e lm="niemalże"><i>niemalże</i><par n="tu__adv"/></e>
+    <e lm="wystarczająco"><i>wystarczająco</i><par n="tu__adv"/></e>
+    <e lm="bezpowrotnie"><i>bezpowrotnie</i><par n="tu__adv"/></e>
+    <e lm="doprawdy"><i>doprawdy</i><par n="tu__adv"/></e>
+    <e lm="ekstra"><i>ekstra</i><par n="tu__adv"/></e>
+    <e lm="milcząco"><i>milcząco</i><par n="tu__adv"/></e>
+    <e lm="pieszo"><i>pieszo</i><par n="tu__adv"/></e>
+    <e lm="potajemnie"><i>potajemnie</i><par n="tu__adv"/></e>
+    <e lm="przykro"><i>przykro</i><par n="tu__adv"/></e>
+    <e lm="bezproblemowo"><i>bezproblemowo</i><par n="tu__adv"/></e>
+    <e lm="bezmyślnie"><i>bezmyślnie</i><par n="tu__adv"/></e>
+    <e lm="ambulatoryjnie"><i>ambulatoryjnie</i><par n="tu__adv"/></e>
+    <e lm="bezbłędnie"><i>bezbłędnie</i><par n="tu__adv"/></e>
+    <e lm="brawurowo"><i>brawurowo</i><par n="tu__adv"/></e>
+    <e lm="błyskawicznie"><i>błyskawicznie</i><par n="tu__adv"/></e>
+    <e lm="centralnie"><i>centralnie</i><par n="tu__adv"/></e>
+    <e lm="definitywnie"><i>definitywnie</i><par n="tu__adv"/></e>
+    <e lm="demonstracyjnie"><i>demonstracyjnie</i><par n="tu__adv"/></e>
+    <e lm="dobrowolnie"><i>dobrowolnie</i><par n="tu__adv"/></e>
+    <e lm="ewidentnie"><i>ewidentnie</i><par n="tu__adv"/></e>
+    <e lm="gorączkowo"><i>gorączkowo</i><par n="tu__adv"/></e>
+    <e lm="groteskowo"><i>groteskowo</i><par n="tu__adv"/></e>
+    <e lm="ideowo"><i>ideowo</i><par n="tu__adv"/></e>
+    <e lm="kurczowo"><i>kurczowo</i><par n="tu__adv"/></e>
+    <e lm="miesięcznie"><i>miesięcznie</i><par n="tu__adv"/></e>
+    <e lm="nadzwyczajnie"><i>nadzwyczajnie</i><par n="tu__adv"/></e>
+    <e lm="nerwowo"><i>nerwowo</i><par n="tu__adv"/></e>
+    <e lm="nieoczekiwanie"><i>nieoczekiwanie</i><par n="tu__adv"/></e>
+    <e lm="obustronnie"><i>obustronnie</i><par n="tu__adv"/></e>
+    <e lm="oczekiwanie"><i>oczekiwanie</i><par n="tu__adv"/></e>
+    <e lm="oddzielnie"><i>oddzielnie</i><par n="tu__adv"/></e>
+    <e lm="ostentacyjnie"><i>ostentacyjnie</i><par n="tu__adv"/></e>
+    <e lm="samoczynnie"><i>samoczynnie</i><par n="tu__adv"/></e>
+    <e lm="pisemnie"><i>pisemnie</i><par n="tu__adv"/></e>
+    <e lm="pokazowo"><i>pokazowo</i><par n="tu__adv"/></e>
+    <e lm="przedwczoraj"><i>przedwczoraj</i><par n="tu__adv"/></e>
+    <e lm="relatywnie"><i>relatywnie</i><par n="tu__adv"/></e>
+    <e lm="ustawicznie"><i>ustawicznie</i><par n="tu__adv"/></e>
+    <e lm="triumfalnie"><i>triumfalnie</i><par n="tu__adv"/></e>
+    <e lm="standardowo"><i>standardowo</i><par n="tu__adv"/></e>
+    <e lm="rytualnie"><i>rytualnie</i><par n="tu__adv"/></e>
+    <e lm="złowieszczo"><i>złowieszczo</i><par n="tu__adv"/></e>
+    <e lm="zaocznie"><i>zaocznie</i><par n="tu__adv"/></e>
+    <e lm="zdalnie"><i>zdalnie</i><par n="tu__adv"/></e>
+    <e lm="ślepo"><i>ślepo</i><par n="tu__adv"/></e>
     <e lm="żywiołowo"><i>żywiołowo</i><par n="tu__adv"/></e>
 <!-- Pre-adverbs -->    
     <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>    
