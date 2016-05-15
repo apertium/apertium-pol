@@ -20644,7 +20644,7 @@
     <e lm="politechnika"><i>politechni</i><par n="rze/ka__n"/></e>    
     <e lm="polityka"><i>polity</i><par n="rze/ka__n"/></e>    
     <e lm="enklityka"><i>enklity</i><par n="rze/ka__n"/></e>
-<!-- Mikel is not sure: shouldn't this be an adjective? How does it decline? -->    
+   
     <e lm="proklityka"><i>proklity</i><par n="rze/ka__n"/></e>    
     <e lm="praktyka"><i>prakty</i><par n="rze/ka__n"/></e>    
     <e lm="tematyka"><i>tematy</i><par n="rze/ka__n"/></e>    
@@ -23312,6 +23312,26 @@
     <e lm="Rosjanka"><i>Rosjan</i><par n="mat/ka__n"/></e>    
     <e lm="Rzymianka"><i>Rzymian</i><par n="mat/ka__n"/></e>    
     <e lm="Tybetanka"><i>Tybetan</i><par n="mat/ka__n"/></e>
+<!-- Multiwords -->  
+    <e lm="związek frazeologiczny" a="iza"><p><l>związek<b/>frazeologiczny</l><r>związek<b/>frazeologiczny<s n="mi"/><s n="sg"/><r/><p/></e>
+    <e lm="związek frazeologiczny" a="iza"><p><l>związki<b/>frazeologiczne</l><r>związek<b/>frazeologiczny<s n="mi"/><s n="pl"/><r/><p/></e>
+    <e lm="akcent graficzny" a="iza"><p><l>akcent<b/>graficzny</l><r>akcent<b/>graficzny<s n="mi"/><s n="sg"/><r/><p/></e>
+    <e lm="akcent graficzny" a="iza"><p><l>akcenty<b/>graficzne</l><r>akcent<b/>graficzny<s n="mi"/><s n="pl"/><r/><p/></e>
+    <e lm="liczba pojedyncza" a="iza"><p><l>liczba<b/>pojedyncza</l><r>liczba<b/>pojedyncza<s n="f"/><s n="sg"/><r/><p/></e>
+    <e lm="liczba mnoga" a="iza"><p><l>liczba<b/>mnoga</l><r>liczba<b/>mnoga<s n="f"/><s n="sg"/><r/><p/></e>
+    <e lm="dopełnienie bliższe" a="iza"><p><l>dopełnienie<b/>bliższe</l><r>dopełnienie<b/>bliższe<s n="nt"/><s n="sg"/><r/><p/></e>
+    <e lm="dopełnienie bliższe" a="iza"><p><l>dopełnienia<b/>bliższe</l><r>dopełnienie<b/>bliższe<s n="nt"/><s n="pl"/><r/><p/></e>
+    <e lm="dopełnienie dalsze" a="iza"><p><l>dopełnienie<b/>dalsze</l><r>dopełnienie<b/>dalsze<s n="nt"/><s n="sg"/><r/><p/></e>
+    <e lm="dopełnienie bliższe" a="iza"><p><l>dopełnienia<b/>dalsze</l><r>dopełnienie<b/>dalsze<s n="nt"/><s n="pl"/><r/><p/></e>
+    <e lm="strona czynna" a="iza"><p><l>strona<b/>czynna</l><r>strona<b/>czynna<s n="f"/><s n="sg"/><r/><p/></e>
+    <e lm="strona bierna" a="iza"><p><l>strona<b/>bierna</l><r>strona<b/>bierna<s n="f"/><s n="sg"/><r/><p/></e>
+    <e lm="strona zwrotna" a="iza"><p><l>strona<b/>zwrotna</l><r>strona<b/>zwrotna<s n="f"/><s n="sg"/><r/><p/></e>
+    <e lm="część mowy"><i>częś</i><par n="miłoś/ć__n"/><p><l><b/>mowy</l><r><g><b/>mowy</g></r></p></e>
+    <e lm="część zdania"><i>częś</i><par n="miłoś/ć__n"/><p><l><b/>zdania</l><r><g><b/>zdania</g></r></p></e>
+    <e lm="grupa orzeczenia"><i>grup</i><par n="analiz/a__n"/><p><l><b/>orzeczenia</l><r><g><b/>orzeczenia</g></r></p></e>
+    <e lm="grupa podmiotu"><i>grup</i><par n="analiz/a__n"/><p><l><b/>podmiotu</l><r><g><b/>podmiotu</g></r></p></e>
+    <e lm="w cudzysłowie"><p><l>w<b/>cudzysłowie</l><r>w<b/>cudzysłowie<s n="tu_adv"/></r></p></e>
+
 <!-- Proper Nouns -->    
     <e lm="Praga"><i>Pra</i><par n="Pra/ga__np"/></e>    
     <e lm="Kosowo"><i>Kosow</i><par n="Wiln/o__np"/></e>    
