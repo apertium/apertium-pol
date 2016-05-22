@@ -9750,8 +9750,11 @@
     <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="tu__adv"/></e>
     <e lm="tj"><i>tj</i><par n="tu__adv"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="m"><i>m</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
+    <e lm="mm"><i>mm</i><par n="km__n"/></e>
+    <e lm="ml"><i>ml</i><par n="km__n"/></e>
     <e lm="nr"><i>nr</i><par n="km__n"/></e>
     <e lm="św"><i>św</i><par n="św__n"/></e>
     <e lm="mln"><i>mln</i><par n="km__n"/></e>
@@ -9776,7 +9779,7 @@
     <e lm="min"><i>min</i><par n="np__abbr"/></e>
     <e lm="max"><i>max</i><par n="np__abbr"/></e>
     <e lm="mgr"><i>mgr</i><par n="np__abbr"/></e>
-    <e lm="str"><i>str</i><par n="np__abbr"/></e>
+    <e lm="str."><i>str.</i><par n="np__abbr"/></e>
     <e lm="tys"><i>tys</i><par n="np__abbr"/></e>
     <e lm="mg"><i>mg</i><par n="np__abbr"/></e>
     <e lm="kcal"><i>kcal</i><par n="np__abbr"/></e>
