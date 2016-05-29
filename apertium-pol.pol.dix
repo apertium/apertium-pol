@@ -16,7 +16,7 @@
     <sdef n="det"     c="określnik"/>    
     <sdef n="ij"      c="wykrzyknik"/>    
     <sdef n="cnjadv"  c="spójnik przysłówkowy"/>    
-    <sdef n="cnjcoo"  c="spójnik współrzędny"/>    
+    <sdef n="cnjcoo"  c="spójnik współrzędny"/> oun
     <sdef n="cnjsub"  c="spójnik podrzędny"/>
 <!-- rodzaje -->    
     <sdef n="m"       c="męski (nazwa własna)"/>    
@@ -27,7 +27,7 @@
     <sdef n="nt"      c="nijaki"/>    
     <sdef n="mf"      c="męski albo/i żeński"/>    
     <sdef n="nm"      c="niemęski (np 'Polaki' a nie 'Polacy')"/>    
-    <sdef n="np"      c="nazwa własna"/>    
+    <sdef n="np"      c="nazwa własna/ proper noun"/>    
     <sdef n="hyd"     c="hydronim"/>    
     <sdef n="top"     c="miejsce"/>    
     <sdef n="ant"     c="imię"/>    
@@ -43,7 +43,7 @@
     <sdef n="gen"     c="dopełniacz"/>    
     <sdef n="dat"     c="celownik"/>    
     <sdef n="acc"     c="biernik"/>    
-    <sdef n="ins"     c="narzędnik"/>    
+    <sdef n="ins"     c="narzędnik"/>
     <sdef n="loc"     c="miejscownik"/>    
     <sdef n="voc"     c="wołacz"/>
 <!-- liczby -->    
@@ -12678,7 +12678,7 @@
 <!-- Interjunctions -->    
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>    
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>    
-    <e lm="aha"><i>aha</i><par n="cześć__ij"/></e>    
+    <e lm="aha"><i>aha</i><par n="cześć__ij"/></e>   
     <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>    
     <e lm="dzień dobry"><i>dzień<b/>dobry</i><par n="cześć__ij"/></e>    
     <e lm="mniam"><i>mniam</i><par n="cześć__ij"/></e>    
@@ -12698,6 +12698,9 @@
     <e lm="przepraszam"><i>przepraszam</i><par n="cześć__ij"/></e>    
     <e lm="przykro mi"><i>przykro<b/>mi</i><par n="cześć__ij"/></e>    
     <e lm="z przyjemnością"><i>z<b/>przyjemnością</i><par n="cześć__ij"/></e>
+    <e lm="hej"><i>hej</i><par n="cześć__ij"/></e>
+    <e lm="dziękuję"><i>dziękuję</i><par n="cześć__ij"/></e>
+    <e lm="chyba"><i>chyba</i><par n="cześć__ij"/></e>
 <!-- Relatives -->    
     <e lm="jak"><i>jak</i><par n="gdzie__rel"/></e>    
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__rel"/></e>    
@@ -12744,12 +12747,12 @@
     <e lm="dwieście"><i>dw</i><par n="dw/ieście__num"/></e>    
     <e lm="trzysta"><i>trzyst</i><par n="trzyst/a__num"/></e>    
     <e lm="czterysta"><i>czteryst</i><par n="trzyst/a__num"/></e>
-<!--	
+	
     <e lm="pięćset"><i>pię</i><par n="pię/ćset__num"/></e>    
     <e lm="sześćset"><i>sześ</i><par n="pię/ćset__num"/></e>    
     <e lm="siedemset"><i>sied</i><par n="sied/emset__num"/></e>    
     <e lm="osiemset"><i>o</i><par n="o/siemset__num"/></e>    
-    <e lm="dziewięćset"><i>dziewię</i><par n="pię/ćset__num"/></e>-->
+    <e lm="dziewięćset"><i>dziewię</i><par n="pię/ćset__num"/></e>
 <!-- Adverbs -->
 <!-- Interrogative adverbs -->    
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>    
