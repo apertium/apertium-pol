@@ -9789,6 +9789,9 @@
     <e lm="tab"><i>tab</i><par n="np__abbr"/></e>
     <e lm="p."><i>p.</i><par n="np__abbr"/></e>
     <e lm="r."><i>r.</i><par n="np__abbr"/></e>
+    <e lm="ur."><i>ur.</i><par n="np__abbr"/></e>
+    <e lm="ul."><i>ul.</i><par n="np__abbr"/></e>
+    <e lm="zm."><i>zm.</i><par n="np__abbr"/></e>
     <e lm="Kč"><i>Kč</i><par n="np__abbr"/></e>
     <e lm="zł"><i>zł</i><par n="km__n"/></e>
     <e lm="n.e."><i>n.e.</i><par n="tu__adv"/></e>
@@ -13970,7 +13973,19 @@
     <e lm="policzyć"><i>policz</i><par n="uwierz/yć__vblex"/></e>    
     <e lm="polować"><i>pol</i><par n="mal/ować__vblex"/></e>    
     <e lm="połatać"><i>połat</i><par n="przeczyt/ać__vblex"/></e>    
-    <e lm="połączyć"><i>połącz</i><par n="uwierz/yć__vblex"/></e>    
+    <e lm="połączyć"><i>połącz</i><par n="uwierz/yć__vblex"/></e>
+
+    <!-- todo: make sure it is ok -->
+    <e lm="położyć"><i>położ</i><par n="uwierz/yć__vblex"/></e>
+    <e lm="założyć"><i>założ</i><par n="uwierz/yć__vblex"/></e>
+    <e lm="służyć"><i>wierz</i><par n="wierz/yć__vblex"/></e> 
+    <e lm="liczyć"><i>licz</i><par n="wierz/yć__vblex"/></e>
+    <e lm="walczyć"><i>walcz</i><par n="wierz/yć__vblex"/></e>
+    <e lm="złożyć"><i>złoż</i><par n="uwierz/yć__vblex"/></e>
+    <e lm="zauważyć"><i>zauważ</i><par n="uwierz/yć__vblex"/></e>
+
+
+
     <e lm="pomagać"><i>pomag</i><par n="czyt/ać__vblex"/></e>    
     <e lm="pomalować"><i>pomal</i><par n="namal/ować__vblex"/></e>    
     <e lm="pomieszać"><i>pomiesz</i><par n="przeczyt/ać__vblex"/></e>    
@@ -14980,7 +14995,7 @@
     <e lm="wątpić"><i>wątp</i><par n="karm/ić__vblex"/></e>    
     <e lm="nakarmić"><i>nakarm</i><par n="nakarm/ić__vblex"/></e>    
     <e lm="zapewnić"><i>zapewn</i><par n="zapewn/ić__vblex"/></e>    
-    <e lm="wierzyć"><i>wierz</i><par n="wierz/yć__vblex"/></e>    
+    <e lm="wierzyć"><i>wierz</i><par n="wierz/yć__vblex"/></e> 
     <e lm="bić"><i>bi</i><par n="bi/ć__vblex"/></e>    
     <e lm="żyć"><i>ży</i><par n="bi/ć__vblex"/></e>    
     <e lm="czuć"><i>czu</i><par n="bi/ć__vblex"/></e>    
