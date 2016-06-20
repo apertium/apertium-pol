@@ -6,8 +6,62 @@ SETS
 LIST BOS = (>>>) (sent);
 LIST EOS = (<<<) (sent);
 
-LIST N = n ; 
+LIST N = n ;
+LIST Det = det ;
+LIST Vblex = Vblex ;
+LIST Je = "<je>"i ;
+LIST Być = "być" ;
+
+LIST Nom = nom ; 
+LIST Acc = acc ; 
+LIST Gen = gen ; 
+LIST Dat = dat ; 
+LIST Ins = ins ; 
+LIST Loc = loc ; 
+LIST Voc = voc ; 
+
+LIST Pl = pl ; 
+LIST Sg = sg ;
+
+LIST F = f ;
+LIST M = m ;
+LIST Nt = nt ;
+LIST Mp = mp ;
+LIST Mi = mi ;
+LIST Ma = ma ;
+LIST Mf = mf m f ;
+
+LIST Fin = pres past ;
+
+LIST Pr = pr ;
+
+LIST Cm = cm ;
+
+
+SET NAGDILV = Nom | Acc | Gen | Dat | Ins | Loc | Voc ; 
+SET NUM = Pl | Sg ; 
+SET GEND = F | M | Nt | Mp | Mi | Ma | Mf ; 
+
 
 SECTION
 
-SELECT (x);
+# 1. if a word is a determiner, remove the variant with the cases the following word doesn't have
+REMOVE Det + $$NAGDILV + $$NUM + $$GEND IF (NOT 1 $$NAGDILV + $$NUM + $$GEND) ;
+# 2. if a word is a determiner and the following word is female/male/neuter, leave only the variants with this gender
+SELECT Det + $$GEND IF (1 $$GEND) ;
+# 3. if the following word is a noun, remove the pronoun readings
+# 4. if a word is a determiner and the following word is ma, remove all the readings that don't have this tag
+# 5. if a word is a noun and a previous word is a determiner, remove all the readings with cases that differ from cases in all the readings of the determiner
+REMOVE N + $$NAGDILV IF (NOT -1 $$NAGDILV) ; 
+# 6. something else
+REMOVE Acc IF (0 Je) (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ;
+# 7. if there is no other verb in the sentence and there is an ambiguity between verb and pronoun, select the verb reading
+SELECT Fin IF (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ; 
+# 8. if anywhere in the sentance there is a noun with unambiguous nominative case and there is no verb być, remove nom
+REMOVE Nom IF (NEGATE -1* Być) (NEGATE 1* Być) (0 Nom OR Acc) ; 
+
+SECTION
+
+REMOVE Voc IF (NOT 1 Cm) ; 
+
+
