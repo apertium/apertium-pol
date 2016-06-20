@@ -9,7 +9,10 @@ LIST EOS = (<<<) (sent);
 LIST N = n ;
 LIST Det = det ;
 LIST Vblex = Vblex ;
+LIST Adj = adj ;
+LIST Prn = prn ;
 LIST Je = "<je>"i ;
+LIST To = "<to>"i ;
 LIST Być = "być" ;
 
 LIST Nom = nom ; 
@@ -50,6 +53,7 @@ REMOVE Det + $$NAGDILV + $$NUM + $$GEND IF (NOT 1 $$NAGDILV + $$NUM + $$GEND) ;
 # 2. if a word is a determiner and the following word is female/male/neuter, leave only the variants with this gender
 SELECT Det + $$GEND IF (1 $$GEND) ;
 # 3. if the following word is a noun, remove the pronoun readings
+# SELECT 
 # 4. if a word is a determiner and the following word is ma, remove all the readings that don't have this tag
 # 5. if a word is a noun and a previous word is a determiner, remove all the readings with cases that differ from cases in all the readings of the determiner
 REMOVE N + $$NAGDILV IF (NOT -1 $$NAGDILV) ; 
@@ -57,11 +61,24 @@ REMOVE N + $$NAGDILV IF (NOT -1 $$NAGDILV) ;
 REMOVE Acc IF (0 Je) (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ;
 # 7. if there is no other verb in the sentence and there is an ambiguity between verb and pronoun, select the verb reading
 SELECT Fin IF (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ; 
-# 8. if anywhere in the sentance there is a noun with unambiguous nominative case and there is no verb być, remove nom
-REMOVE Nom IF (NEGATE -1* Być) (NEGATE 1* Być) (0 Nom OR Acc) ; 
+# 8. if anywhere in the sentence there is a noun with unambiguous nominative case and there is no verb być and there is ambiguity between nom and acc, 
+#remove nom
+REMOVE Nom IF (0C* Nom) (NEGATE -1* Być) (NEGATE 1* Być) (0 Nom OR Acc) ; 
+# if there is a verb być in the sentence and there are no other nouns in the sentence and there is ambiguity between nom and acc, select nom reading
+SELECT Nom IF (NEGATE -1* N + Nom) (NEGATE 1* N + Nom) (0* Być) (0 Nom OR Acc) ;
+# if there is an adjective there is no noun after it and there is a verb być in the sentence, and it is ambiguous between nom and acc, select nom
+SELECT Nom IF (0 Adj) (NOT 1* N) (0* Być) (0 Nom OR Acc) ;
+# if the situation is like in the previous rule and there is a noun in nominative before the current word, select the reading with the gender of this noun
+SELECT $$GEND IF (0 Adj) (NOT 1* N) (0* Być) (NOT 0 Ins) (-1* N + $$GEND) ;
+# if the first word is a pronoun to and the second word is the verb być and it is ambiguous between nom and acc, select the nominative reading
+SELECT Nom IF (0 To) (0* Być) (0 Nom OR Acc) ;
+
+
 
 SECTION
 
-REMOVE Voc IF (NOT 1 Cm) ; 
+# remove the reading with locative if there is no comma after it
+REMOVE Voc IF (NOT 1 Cm) ;
+
 
 
