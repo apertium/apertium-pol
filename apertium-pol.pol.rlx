@@ -14,6 +14,7 @@ LIST Prn = prn ;
 LIST Je = "<je>"i ;
 LIST To = "<to>"i ;
 LIST Być = "być" ;
+LIST O = "o" ;
 
 LIST Nom = nom ; 
 LIST Acc = acc ; 
@@ -72,6 +73,9 @@ SELECT Nom IF (0 Adj) (NOT 1* N) (0* Być) (0 Nom OR Acc) ;
 SELECT $$GEND IF (0 Adj) (NOT 1* N) (0* Być) (NOT 0 Ins) (-1* N + $$GEND) ;
 # if the first word is a pronoun to and the second word is the verb być and it is ambiguous between nom and acc, select the nominative reading
 SELECT Nom IF (0 To) (0* Być) (0 Nom OR Acc) ;
+# if there is a noun and there is a preposition "o" before it, select loc
+SELECT Loc IF (0 N) (-1 O)
+
 
 
 
