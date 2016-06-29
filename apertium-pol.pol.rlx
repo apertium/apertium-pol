@@ -17,6 +17,12 @@ LIST Być = "być" ;
 LIST Się = "się" ;
 LIST Ref = ref ;
 LIST O = "o" ;
+LIST Do = "do" ;
+LIST Dla = "Dla" ;
+LIST Od = "od" ;
+LIST U = "u" ;
+LIST Obok = "obok" ;
+
 
 LIST Nom = nom ; 
 LIST Acc = acc ; 
@@ -36,6 +42,7 @@ LIST Mp = mp ;
 LIST Mi = mi ;
 LIST Ma = ma ;
 LIST Mf = mf m f ;
+LIST Relpr = rel ;
 
 LIST Fin = pres past ;
 
@@ -77,6 +84,8 @@ SELECT $$GEND IF (0 Adj) (NOT 1* N) (0* Być) (NOT 0 Ins) (-1* N + $$GEND) ;
 SELECT Nom IF (0 To) (0* Być) (0 Nom OR Acc) ;
 # if there is a noun and there is a preposition "o" before it, select loc
 SELECT Loc IF (0 N) (-1 O) ;
+# if there is a noun and there are prepositions listed before it, select gen
+SELECT Gen IF (0 N OR Prn) (-1 Do OR U OR Dla OR Obok) ;
 
 SELECT Ref IF (1 Się) ;
 
