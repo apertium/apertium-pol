@@ -11,17 +11,33 @@ LIST Det = det ;
 LIST Vblex = Vblex ;
 LIST Adj = adj ;
 LIST Prn = prn ;
+LIST Num = num ;
 LIST Je = "<je>"i ;
 LIST To = "<to>"i ;
 LIST Być = "być" ;
 LIST Się = "się" ;
 LIST Ref = ref ;
-LIST O = "o" ;
+
+# prepositions
+
+# with genitive
 LIST Do = "do" ;
 LIST Dla = "Dla" ;
 LIST Od = "od" ;
 LIST U = "u" ;
 LIST Obok = "obok" ;
+
+# with loc or Acc
+LIST O = "o" ;
+LIST Na = "Na" ;
+LIST W = "W" ;
+
+# with acc or ins
+LIST Pod = "Pod" ;
+LIST Za = "Za" ;
+LIST Nad = "Nad" ;
+
+LIST Przy = "Przy" ;
 
 
 LIST Nom = nom ; 
@@ -83,7 +99,7 @@ SELECT $$GEND IF (0 Adj) (NOT 1* N) (0* Być) (NOT 0 Ins) (-1* N + $$GEND) ;
 # if the first word is a pronoun to and the second word is the verb być and it is ambiguous between nom and acc, select the nominative reading
 SELECT Nom IF (0 To) (0* Być) (0 Nom OR Acc) ;
 # if there is a noun and there is a preposition "o" before it, select loc
-SELECT Loc IF (0 N) (-1 O) ;
+SELECT Loc IF (0 N OR Det OR Prn OR Num) (-1 O OR Na OR W OR Przy) (0 Loc OR Voc);
 # if there is a noun and there are prepositions listed before it, select gen
 SELECT Gen IF (0 N OR Prn) (-1 Do OR U OR Dla OR Obok) ;
 # if się if position +1, select reflexive reading
