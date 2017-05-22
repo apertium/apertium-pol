@@ -86,7 +86,7 @@ REMOVE N + $$NAGDILV IF (NOT -1 $$NAGDILV) ;
 # 6. something else
 REMOVE Acc IF (0 Je) (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ;
 # 7. if there is no other verb in the sentence and there is an ambiguity between verb and pronoun, select the verb reading
-SELECT Fin IF (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ; 
+# SELECT Fin IF (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ; 
 # 8. if anywhere in the sentence there is a noun with unambiguous nominative case and there is no verb być and there is ambiguity between nom and acc, 
 #remove nom
 REMOVE Nom IF (0C* Nom) (NOT -1* Być) (NOT 1* Być) (0 Nom OR Acc) ; 
