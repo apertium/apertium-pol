@@ -89,7 +89,7 @@ REMOVE Acc IF (0 Je) (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ;
 # SELECT Fin IF (NEGATE -1* Fin) (NEGATE 1* Fin) (NOT -1 Pl) ; 
 # 8. if anywhere in the sentence there is a noun with unambiguous nominative case and there is no verb być and there is ambiguity between nom and acc, 
 #remove nom
-REMOVE Nom IF (0C* Nom) (NOT -1* Być) (NOT 1* Być) (0 Nom OR Acc) ; 
+REMOVE Nom IF (0 N) (0C* Nom) (NOT -1* Być) (NOT 1* Być) (0 Nom OR Acc) ; 
 # if there is a verb być in the sentence and there are no other nouns in the sentence and there is ambiguity between nom and acc, select nom reading
 SELECT Nom IF (NEGATE -1* N + Nom) (NEGATE 1* N + Nom) (0* Być) (0 Nom OR Acc) ;
 # if there is an adjective there is no noun after it and there is a verb być in the sentence, and it is ambiguous between nom and acc, select nom
