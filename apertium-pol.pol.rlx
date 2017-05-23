@@ -104,7 +104,8 @@ SELECT Loc IF (0 N OR Det OR Prn OR Num) (-1 O OR Na OR W OR Przy) (0 Loc OR Voc
 SELECT Gen IF (0 N OR Prn) (-1 Do OR U OR Dla OR Obok) ;
 # if się if position +1, select reflexive reading
 SELECT Ref IF (1 Się) ;
-
+# if there a verb in directly preceding position 
+REMOVE Fin IF (0 Je) (-1 Fin)
 
 
 SECTION
