@@ -62,6 +62,7 @@ LIST Relpr = rel ;
 
 LIST Fin = pres past ;
 LIST Ger = ger ;
+LIST AdjLike = adj pprs pp ;
 
 LIST Pr = pr ;
 
@@ -107,8 +108,8 @@ SELECT Gen IF (0 N OR Prn) (-1 Do OR U OR Dla OR Obok) ;
 SELECT Ref IF (1 Się) ;
 # if there a verb in directly preceding position, remove verbal reading from "je"
 REMOVE Fin if (0 Je) (-1 Fin) ;
-# if there an adjective in directly preceding position, remove gerund reading
-REMOVE Ger IF (0 Ger OR N) (-1 Adj) ;
+# if there an adjective or a participle in directly preceding position, remove gerund reading
+REMOVE Ger IF (0 Ger OR N) (-1 AdjLike) ;
 
 SECTION
 
