@@ -11,8 +11,10 @@ TARGETS_COMMON = $(LANG1).automorf.bin $(LANG1).autogen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
         $(LANG1).rlx.bin
 
+@ap_include@
+
 ###############################################################################
-## Spanish transducer
+## Polish transducer
 ###############################################################################
 
 $(LANG1).autogen.bin: $(BASENAME).$(LANG1).dix
@@ -28,7 +30,7 @@ $(LANG1).automorf.att.gz: $(LANG1).automorf.bin
 	lt-print $< | gzip -9 -c -n > $@
 
 ###############################################################################
-## Disambiguation rules 
+## Disambiguation rules
 ###############################################################################
 
 $(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
