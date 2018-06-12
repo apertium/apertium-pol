@@ -2,8 +2,6 @@
 ## Makefile for apertium-pol
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=pol
 BASENAME=apertium-$(LANG1)
 

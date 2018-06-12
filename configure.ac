@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-pol], [0.1.0], [francis.tyers@gmail.com])
-AM_INIT_AUTOMAKE([apertium-pol], [0.1.0], no-define)
+AC_INIT([apertium-pol], [0.1.1], [francis.tyers@gmail.com])
+AM_INIT_AUTOMAKE([apertium-pol], [0.1.1], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
@@ -9,30 +9,6 @@ m4_define([required_apertium_version], [3.3.0])
 m4_define([required_lttoolbox_version], [3.3.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version)
 PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= required_lttoolbox_version)
-
-
-#AC_DEFUN([PKG_CHECK_HFST], [
-#  HFST_VER=0
-#  PKG_CHECK_MODULES(HFST, hfst-3.2 >= 3.2.0,
-#  [
-#      HFST_VER=32
-#  ],
-#  [
-#      PKG_CHECK_MODULES(HFST, hfst-3.1 >= 3.1.0,
-#      [
-#          HFST_VER=31
-#      ],
-#      [
-#          PKG_CHECK_MODULES(HFST, hfst-3.0 >= 3.0.0,
-#          [
-#              HFST_VER=30
-#          ])
-#      ])
-#  ])
-#  AC_SUBST(HFST_VER)
-#])
-#
-#PKG_CHECK_HFST
 
 AC_PATH_PROG(LTPRINT, lt-print, no)
 if test x$ac_cv_path_LTPRINT = x
