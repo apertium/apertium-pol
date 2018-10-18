@@ -165,7 +165,7 @@
   <e>       <p><l>wy</l>        <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>oni</l>       <r>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>one</l>       <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e>       <p><l>mię</l>       <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="LR"><p><l>mię</l>       <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>mnie</l>      <r>prpers<s n="prn"/><s n="emph"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>cię</l>       <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
   <e>       <p><l>ciebie</l>    <r>prpers<s n="prn"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -202,7 +202,7 @@
   <e>       <p><l>im</l>        <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>nim</l>       <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
   <e>       <p><l>mnie</l>      <r>prpers<s n="prn"/><s n="emph"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
-  <e>       <p><l>mię</l>       <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e r="LR"><p><l>mię</l>       <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>ciebie</l>    <r>prpers<s n="prn"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>cię</l>       <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>go</l>        <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -14200,6 +14200,7 @@
 <e lm="na poczet">       <p><l>na<b/>poczet</l><r>na<b/>poczet<s n="pr"/></r></p></e>
 <e lm="w większości">    <p><l>w<b/>większości</l><r>w<b/>większości<s n="pr"/></r></p></e>
 <e lm="niespełna">       <p><l>niespełna</l> <r>niespełna<s n="pr"/></r></p></e>
+<e lm="w przypadku">     <p><l>w<b/>przypadku</l><r>w<b/>przypadku<s n="pr"/></r></p></e>
     <!-- ******************************
           group adv
       ****************************** -->
@@ -19228,6 +19229,7 @@
 <e lm="automatyzacja">   <i>automatyzac</i><par n="dysertac/ja__n"/></e>
 <e lm="automatyzm">      <i>automatyzm</i><par n="sklep__n"/></e>
 <e lm="automobil">       <i>automobil</i><par n="hotel__n"/></e>
+<e lm="promil">          <i>promil</i><par n="hotel__n"/></e>
 <e lm="automobilizm">    <i>automobilizm</i><par n="sklep__n"/></e>
 <e lm="automorfizm">     <i>automorfizm</i><par n="sklep__n"/></e>
 <e lm="autonomia">       <i>autonomi</i><par n="filozofi/a__n"/></e>
@@ -39119,6 +39121,7 @@
 <e lm="naszkicować">     <i>naszkic</i><par n="namal/ować__vblex"/></e>
 <e lm="naszpikować">     <i>naszpik</i><par n="namal/ować__vblex"/></e>
 <e lm="nasłuchiwać">     <i>nasłuch</i><par n="oszuk/iwać__vblex"/></e>
+<e lm="przesłuchiwać">   <i>przesłuch</i><par n="oszuk/iwać__vblex"/></e>
 <e lm="nauczyć">         <i>naucz</i><par n="uwierz/yć__vblex"/></e>
 <e lm="nauczać">         <i>naucz</i><par n="czyt/ać__vblex"/></e>
 <e lm="nawadniać">       <i>nawadni</i><par n="czyt/ać__vblex"/></e>
@@ -39683,6 +39686,7 @@
 <e lm="poważać">         <i>poważ</i><par n="czyt/ać__vblex"/></e>
 <e lm="powiadać">        <i>powiad</i><par n="czyt/ać__vblex"/></e>
 <e lm="powiadamiać">     <i>powiadami</i><par n="czyt/ać__vblex"/></e>
+<e lm="zawiadamiać">     <i>zawiadami</i><par n="czyt/ać__vblex"/></e>
 <e lm="powiadomić">      <i>powiadom</i><par n="nakarm/ić__vblex"/></e>
 <e lm="powiedzieć">      <i>powie</i><par n="dowie/dzieć__vblex"/></e>
 <e lm="powielić">        <i>powiel</i><par n="podziel/ić__vblex"/></e>
@@ -40243,6 +40247,7 @@
 <e lm="spożywać">        <i>spożyw</i><par n="czyt/ać__vblex"/></e>
 <e lm="sprawować">       <i>spraw</i><par n="mal/ować__vblex"/></e>
 <e lm="sprawić">         <i>spraw</i><par n="nakarm/ić__vblex"/></e>
+<e lm="uprawić">         <i>upraw</i><par n="nakarm/ić__vblex"/></e>
 <e lm="sprawdzić">       <i>sprawd</i><par n="sprawd/zić__vblex"/></e>
 <e lm="sprawdzać">       <i>sprawdz</i><par n="czyt/ać__vblex"/></e>
 <e lm="sprawiać">        <i>sprawi</i><par n="czyt/ać__vblex"/></e>
@@ -40579,6 +40584,7 @@
 <e lm="waloryzować">     <i>waloryz</i><par n="mal/ować__vblex"/></e>
 <e lm="wariować">        <i>wari</i><par n="mal/ować__vblex"/></e>
 <e lm="warknąć">         <i>warkn</i><par n="zamkn/ąć__vblex"/></e>
+<e lm="walnąć">          <i>waln</i><par n="zamkn/ąć__vblex"/></e>
 <e lm="wałęsać">         <i>wałęsa</i><par n="podoba/ć__vblex"/></e>
 <e lm="ważyć">           <i>waż</i><par n="wierz/yć__vblex"/></e>
 <e lm="wbić">            <i>wbi</i><par n="zabi/ć__vblex"/></e>
@@ -40613,6 +40619,7 @@
 <e lm="wiedzieć">        <i>wie</i><par n="wie/dzieć__vblex"/></e>
 <e lm="wielbić">         <i>wielb</i><par n="karm/ić__vblex"/></e>
 <e lm="wiercić">         <i>wier</i><par n="pła/cić__vblex"/></e>
+<e lm="wywiercić">       <i>wywier</i><par n="stra/cić__vblex"/></e>
 <e lm="wierzyć">         <i>wierz</i><par n="wierz/yć__vblex"/></e>
 <e lm="wieszać">         <i>wiesz</i><par n="czyt/ać__vblex"/></e>
 <e lm="wikłać">          <i>wikł</i><par n="czyt/ać__vblex"/></e>
@@ -40878,6 +40885,7 @@
 <e lm="wysiąść">         <i>wysi</i><par n="usi/ąść__vblex"/></e>
 <e lm="wysiadać">        <i>wysiada</i><par n="podoba/ć__vblex"/></e>
 <e lm="wyskakiwać">      <i>wyskak</i><par n="oszuk/iwać__vblex"/></e>
+<e lm="zeskakiwać">      <i>zeskak</i><par n="oszuk/iwać__vblex"/></e>
 <e lm="wyskoczyć">       <i>wyskocz</i><par n="uwierz/yć__vblex"/></e>
 <e lm="wystawać">        <i>wysta</i><par n="da/wać__vblex"/></e>
 <e lm="wystarczać">      <i>wystarcz</i><par n="czyt/ać__vblex"/></e>
