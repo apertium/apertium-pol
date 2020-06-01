@@ -64,7 +64,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix		\
 apertium_poldir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_pol_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_pol_DATA=$(TARGETS_COMMON) $(LANG1).prob
+apertium_pol_DATA=$(TARGETS_COMMON) $(LANG1).prob $(BASENAME).$(LANG1).acx
 
 pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
@@ -78,7 +78,6 @@ modes/$(LANG1)-morph.mode: modes.xml
 noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local:
-	test -d $(DESTDIR)$(apertium_pol_srcdir) || mkdir -p $(DESTDIR)$(apertium_pol_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_pol_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_pol_srcdir)
 	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_pol_srcdir)
